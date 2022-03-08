@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Goibibo Suite">
+	<listeners>
+		<listener class-name="com.goibibo.utilities.Listeners"></listener>
+	</listeners>
+	<test thread-count="5" name="Goibibo Tests">
+		<classes>
+			<class name="com.goibibo.tests.TS_001_Hotel_Search" />
+			<class name="com.goibibo.tests.TS_002_Hotel_Booking" />
+			<class name="com.goibibo.tests.TS_003_Hotel_Details" />
+			<class name="com.goibibo.tests.TS_004_Hotel_Filters" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

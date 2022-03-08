@@ -1,0 +1,4034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="7" passed="3" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[===== Browser Session Started =====]]>
+    </line>
+    <line>
+      <![CDATA[=====Application Started=====]]>
+    </line>
+    <line>
+      <![CDATA[Test case started: HOTELSEARCH]]>
+    </line>
+    <line>
+      <![CDATA[Existing rooms 1and Required rooms 1 are same.]]>
+    </line>
+    <line>
+      <![CDATA[Minus button at adults section is clicked 1 times]]>
+    </line>
+    <line>
+      <![CDATA[Existing rooms 0and Required rooms 0 are same.]]>
+    </line>
+    <line>
+      <![CDATA[The Total Number of Hotels are 367]]>
+    </line>
+    <line>
+      <![CDATA[Please find the Hotel names below:  ]]>
+    </line>
+    <line>
+      <![CDATA[1.AURORA LIGHT RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[2.Rainbow Cottage]]>
+    </line>
+    <line>
+      <![CDATA[3.Chettinad Avenue]]>
+    </line>
+    <line>
+      <![CDATA[4.Wild zest]]>
+    </line>
+    <line>
+      <![CDATA[5.The Majestic Crown]]>
+    </line>
+    <line>
+      <![CDATA[6.Garden Manor]]>
+    </line>
+    <line>
+      <![CDATA[7.Hill Crest Metro]]>
+    </line>
+    <line>
+      <![CDATA[8.Green Apple Residence]]>
+    </line>
+    <line>
+      <![CDATA[9.Hotel Lakeview]]>
+    </line>
+    <line>
+      <![CDATA[10.Greenyards]]>
+    </line>
+    <line>
+      <![CDATA[11.OYO 78034 New Star Cottages]]>
+    </line>
+    <line>
+      <![CDATA[12.Glen Park Inn]]>
+    </line>
+    <line>
+      <![CDATA[13.OYO 79915 SRJs Thaneesh Residency]]>
+    </line>
+    <line>
+      <![CDATA[14.Parkside Residency]]>
+    </line>
+    <line>
+      <![CDATA[15.The Monarch]]>
+    </line>
+    <line>
+      <![CDATA[16.The Green valley resorts]]>
+    </line>
+    <line>
+      <![CDATA[17.Sterling Ooty Elk Hill]]>
+    </line>
+    <line>
+      <![CDATA[18.Beverly Villa]]>
+    </line>
+    <line>
+      <![CDATA[19.Oriental Grand]]>
+    </line>
+    <line>
+      <![CDATA[20.FabExpress Grand Castle Hill Resorts]]>
+    </line>
+    <line>
+      <![CDATA[21.Mountain Trails]]>
+    </line>
+    <line>
+      <![CDATA[22.Hotel Astoria Residency]]>
+    </line>
+    <line>
+      <![CDATA[23.Tulips valley view resorts]]>
+    </line>
+    <line>
+      <![CDATA[24.Rose Park Residency]]>
+    </line>
+    <line>
+      <![CDATA[25.Tulips Elkhill Resorts]]>
+    </line>
+    <line>
+      <![CDATA[26.Hotel Carnation]]>
+    </line>
+    <line>
+      <![CDATA[27.Zostel Ooty]]>
+    </line>
+    <line>
+      <![CDATA[28.YWCA Anandagiri Ooty]]>
+    </line>
+    <line>
+      <![CDATA[29.Fortune Retreats]]>
+    </line>
+    <line>
+      <![CDATA[30.Al-Woodlands Residency]]>
+    </line>
+    <line>
+      <![CDATA[31.La Montana by TGI]]>
+    </line>
+    <line>
+      <![CDATA[32.Dew Drop Inn]]>
+    </line>
+    <line>
+      <![CDATA[33.OYO 78121 Red Rock]]>
+    </line>
+    <line>
+      <![CDATA[34.Vinayaga Inn by Poppys]]>
+    </line>
+    <line>
+      <![CDATA[35.FabHotel Khems]]>
+    </line>
+    <line>
+      <![CDATA[36.Hotel Sapphire Grand]]>
+    </line>
+    <line>
+      <![CDATA[37.Hotel Fairstay]]>
+    </line>
+    <line>
+      <![CDATA[38.The Red House]]>
+    </line>
+    <line>
+      <![CDATA[39.A Ooty Honey Huts]]>
+    </line>
+    <line>
+      <![CDATA[40.Sabol Holiday Resorts]]>
+    </line>
+    <line>
+      <![CDATA[41.The Bowers Chalet]]>
+    </line>
+    <line>
+      <![CDATA[42.Hotel Welbeck Residency]]>
+    </line>
+    <line>
+      <![CDATA[43.OYO 4427 Hotel Gaylord]]>
+    </line>
+    <line>
+      <![CDATA[44.OYO 13118 Twin Falls]]>
+    </line>
+    <line>
+      <![CDATA[45.Sterling Ooty Fern Hill]]>
+    </line>
+    <line>
+      <![CDATA[46.Mount View Heritage Hotel]]>
+    </line>
+    <line>
+      <![CDATA[47.Silver Bett Resort]]>
+    </line>
+    <line>
+      <![CDATA[48.Delightz Inn]]>
+    </line>
+    <line>
+      <![CDATA[49.Green Leaves, The countryside Inn(8 kms from Ooty)]]>
+    </line>
+    <line>
+      <![CDATA[50.kumaran cottage]]>
+    </line>
+    <line>
+      <![CDATA[51.RK Homes Guest House]]>
+    </line>
+    <line>
+      <![CDATA[52.Hotel Alakapuri]]>
+    </line>
+    <line>
+      <![CDATA[53.FabHotel Sun Park Grand]]>
+    </line>
+    <line>
+      <![CDATA[54.Leopard Rock Wilderness Resort]]>
+    </line>
+    <line>
+      <![CDATA[55.DARSHAN HOTEL]]>
+    </line>
+    <line>
+      <![CDATA[56.Deccan Park]]>
+    </line>
+    <line>
+      <![CDATA[57.Hotel Meadows Residency]]>
+    </line>
+    <line>
+      <![CDATA[58.Hotel Tamilnadu, Ooty]]>
+    </line>
+    <line>
+      <![CDATA[59.Glyngarth Resort (10km Away from Ooty)]]>
+    </line>
+    <line>
+      <![CDATA[60.Vista Suites Kalatti]]>
+    </line>
+    <line>
+      <![CDATA[61.Accord HighLand]]>
+    </line>
+    <line>
+      <![CDATA[62.Raasinihas Paradise]]>
+    </line>
+    <line>
+      <![CDATA[63.Sinclairs Retreat Ooty]]>
+    </line>
+    <line>
+      <![CDATA[64.Motherland Residency]]>
+    </line>
+    <line>
+      <![CDATA[65.OYO 10950 Hotel Hills Palace]]>
+    </line>
+    <line>
+      <![CDATA[66.Western Valley Resorts]]>
+    </line>
+    <line>
+      <![CDATA[67.A2B Residency Ooty]]>
+    </line>
+    <line>
+      <![CDATA[68.Tuccil]]>
+    </line>
+    <line>
+      <![CDATA[69.Ooty Residency]]>
+    </line>
+    <line>
+      <![CDATA[70.DIO BEAUMOUNT]]>
+    </line>
+    <line>
+      <![CDATA[71.De Santosh Residency]]>
+    </line>
+    <line>
+      <![CDATA[72.OYO 35818 Twin Falls Residency]]>
+    </line>
+    <line>
+      <![CDATA[73.Golden Springs]]>
+    </line>
+    <line>
+      <![CDATA[74.Hotel Khems]]>
+    </line>
+    <line>
+      <![CDATA[75.Tiger Hill Homestay]]>
+    </line>
+    <line>
+      <![CDATA[76.La Blooms]]>
+    </line>
+    <line>
+      <![CDATA[77.OYO 7665 Home Stay Fable Stay]]>
+    </line>
+    <line>
+      <![CDATA[78.Palve sugavasam]]>
+    </line>
+    <line>
+      <![CDATA[79.The Byke Sunshine Grand]]>
+    </line>
+    <line>
+      <![CDATA[80.Hotel Preethi Classic Towers]]>
+    </line>
+    <line>
+      <![CDATA[81.I- India]]>
+    </line>
+    <line>
+      <![CDATA[82.SV RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[83.Rock Ooty]]>
+    </line>
+    <line>
+      <![CDATA[84.Kemps cave]]>
+    </line>
+    <line>
+      <![CDATA[85.Taj Cottage]]>
+    </line>
+    <line>
+      <![CDATA[86.Hill Bird Homestay]]>
+    </line>
+    <line>
+      <![CDATA[87.OYO Flagship 44245 Hotel Rainforest Thalayathimund]]>
+    </line>
+    <line>
+      <![CDATA[88.PHOENIX STAY Ooty]]>
+    </line>
+    <line>
+      <![CDATA[89.Skylarc inn]]>
+    </line>
+    <line>
+      <![CDATA[90.Hotel Maneck]]>
+    </line>
+    <line>
+      <![CDATA[91.Berry Hills Resort]]>
+    </line>
+    <line>
+      <![CDATA[92.MANGO HILL CENTRAL OOTY]]>
+    </line>
+    <line>
+      <![CDATA[93.Gem Park]]>
+    </line>
+    <line>
+      <![CDATA[94.Vermont Valley Cottages By NiveTsa]]>
+    </line>
+    <line>
+      <![CDATA[95.Anmols Impex Cottage]]>
+    </line>
+    <line>
+      <![CDATA[96.RN Holidays]]>
+    </line>
+    <line>
+      <![CDATA[97.Capital O 13231 Hotel Sapphire Garden View]]>
+    </line>
+    <line>
+      <![CDATA[98.Treebo Trend Atithi Bhavan]]>
+    </line>
+    <line>
+      <![CDATA[99.Sugam Cottages]]>
+    </line>
+    <line>
+      <![CDATA[100.MALAIYUR RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[101.EDEN PARADISE]]>
+    </line>
+    <line>
+      <![CDATA[102.Ganga's Sri Balaji Cottage]]>
+    </line>
+    <line>
+      <![CDATA[103.Hotel Sri Balaji]]>
+    </line>
+    <line>
+      <![CDATA[104.Welcomheritage Ferrnhills Royale Palace]]>
+    </line>
+    <line>
+      <![CDATA[105.Woodstock]]>
+    </line>
+    <line>
+      <![CDATA[106.The Clubhouse Ooty]]>
+    </line>
+    <line>
+      <![CDATA[107.Lakefield Bunglow]]>
+    </line>
+    <line>
+      <![CDATA[108.Hotel Mount n Mist]]>
+    </line>
+    <line>
+      <![CDATA[109.Hotel KURINJI RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[110.Aventura Fernhill]]>
+    </line>
+    <line>
+      <![CDATA[111.Golden Larch Comfort]]>
+    </line>
+    <line>
+      <![CDATA[112.Hotel Silver Oak]]>
+    </line>
+    <line>
+      <![CDATA[113.Colonels Inn]]>
+    </line>
+    <line>
+      <![CDATA[114.Heaven Hill View by Vista Rooms]]>
+    </line>
+    <line>
+      <![CDATA[115.Two Seas Residence]]>
+    </line>
+    <line>
+      <![CDATA[116.Aakash Rooms and cottages]]>
+    </line>
+    <line>
+      <![CDATA[117.Mountain Retreat - A Hill Country Resort]]>
+    </line>
+    <line>
+      <![CDATA[118.Hotel Venus]]>
+    </line>
+    <line>
+      <![CDATA[119.Hotel Landmark]]>
+    </line>
+    <line>
+      <![CDATA[120.Hotel Maneck Residency]]>
+    </line>
+    <line>
+      <![CDATA[121.Seven Hill Guest House]]>
+    </line>
+    <line>
+      <![CDATA[122.OYO 77690 Hillwood Cottage]]>
+    </line>
+    <line>
+      <![CDATA[123.Adarsh International]]>
+    </line>
+    <line>
+      <![CDATA[124.The Abode]]>
+    </line>
+    <line>
+      <![CDATA[125.Pratham International]]>
+    </line>
+    <line>
+      <![CDATA[126.Hotel Nahar Nilgiris]]>
+    </line>
+    <line>
+      <![CDATA[127.Kluney Manor]]>
+    </line>
+    <line>
+      <![CDATA[128.Savoy - IHCL SeleQtions, Ooty]]>
+    </line>
+    <line>
+      <![CDATA[129.SB Cottage and Homestay]]>
+    </line>
+    <line>
+      <![CDATA[130.Mountside Cottage]]>
+    </line>
+    <line>
+      <![CDATA[131.The Lovedale Garden Residency]]>
+    </line>
+    <line>
+      <![CDATA[132.FabHotel Vinu Valley Resorts]]>
+    </line>
+    <line>
+      <![CDATA[133.Ponmari Residency]]>
+    </line>
+    <line>
+      <![CDATA[134.Hotel Sun Park]]>
+    </line>
+    <line>
+      <![CDATA[135.Hotel Serenity Inn]]>
+    </line>
+    <line>
+      <![CDATA[136.S.R Cottage Ooty]]>
+    </line>
+    <line>
+      <![CDATA[137.Sri Sai Residency]]>
+    </line>
+    <line>
+      <![CDATA[138.Margic Star cottage]]>
+    </line>
+    <line>
+      <![CDATA[139.Ever Fresh Cottages]]>
+    </line>
+    <line>
+      <![CDATA[140.British Cliff Club Resort]]>
+    </line>
+    <line>
+      <![CDATA[141.Treebo Trend Sky Dale Inn & Suites]]>
+    </line>
+    <line>
+      <![CDATA[142.EZABELLA LUXURY SERVICE VILLA, Ooty]]>
+    </line>
+    <line>
+      <![CDATA[143.Hotel PENTOZ]]>
+    </line>
+    <line>
+      <![CDATA[144.Vista Suites Doddabetta]]>
+    </line>
+    <line>
+      <![CDATA[145.Collection O 8855 Orchid Inn]]>
+    </line>
+    <line>
+      <![CDATA[146.Woodberry Residency]]>
+    </line>
+    <line>
+      <![CDATA[147.Treebo Trend Light House]]>
+    </line>
+    <line>
+      <![CDATA[148.Hotel Preethi Palace]]>
+    </line>
+    <line>
+      <![CDATA[149.Haven Cottage Ooty]]>
+    </line>
+    <line>
+      <![CDATA[150.Devi Tourist Inn]]>
+    </line>
+    <line>
+      <![CDATA[151.maliekkalresidency]]>
+    </line>
+    <line>
+      <![CDATA[152.The Berg by Vista Rooms]]>
+    </line>
+    <line>
+      <![CDATA[153.Hotel Sanjay]]>
+    </line>
+    <line>
+      <![CDATA[154.Golden Larch Residency]]>
+    </line>
+    <line>
+      <![CDATA[155.Albisville Hilltop Mansion]]>
+    </line>
+    <line>
+      <![CDATA[156.The Venus Residency]]>
+    </line>
+    <line>
+      <![CDATA[157.Exclusive Villa near Rose Garden]]>
+    </line>
+    <line>
+      <![CDATA[158.Ishaan Holidays]]>
+    </line>
+    <line>
+      <![CDATA[159.Zion]]>
+    </line>
+    <line>
+      <![CDATA[160.RANS ROYAL CLUB]]>
+    </line>
+    <line>
+      <![CDATA[161.The Mystique Inn]]>
+    </line>
+    <line>
+      <![CDATA[162.Mystique Ville]]>
+    </line>
+    <line>
+      <![CDATA[163.Nest Inn Nature]]>
+    </line>
+    <line>
+      <![CDATA[164.HV 3-3 BHK Villa]]>
+    </line>
+    <line>
+      <![CDATA[165.MERAKI MAISON]]>
+    </line>
+    <line>
+      <![CDATA[166.FabEscape St. Clouds]]>
+    </line>
+    <line>
+      <![CDATA[167.The Baron]]>
+    </line>
+    <line>
+      <![CDATA[168.Neo Nirmal Residency]]>
+    </line>
+    <line>
+      <![CDATA[169.Spacious Balcony Premium Room in Heart of Ooty]]>
+    </line>
+    <line>
+      <![CDATA[170.Hotel Jaysanthi]]>
+    </line>
+    <line>
+      <![CDATA[171.Kings View Cottage]]>
+    </line>
+    <line>
+      <![CDATA[172.Primrose Cottage]]>
+    </line>
+    <line>
+      <![CDATA[173.Southmere Homestay]]>
+    </line>
+    <line>
+      <![CDATA[174.OYO 77682 Mohans Cottage]]>
+    </line>
+    <line>
+      <![CDATA[175.Princy Cottage Near Boat House]]>
+    </line>
+    <line>
+      <![CDATA[176.EADENZ COTTAGE]]>
+    </line>
+    <line>
+      <![CDATA[177.Seven Endue Grand]]>
+    </line>
+    <line>
+      <![CDATA[178.SS Holiday Inn]]>
+    </line>
+    <line>
+      <![CDATA[179.Golfdale Holiday Resort]]>
+    </line>
+    <line>
+      <![CDATA[180.Collection O 83248 Silent Valley]]>
+    </line>
+    <line>
+      <![CDATA[181.Wildlife Bungalow, rooms or entire house]]>
+    </line>
+    <line>
+      <![CDATA[182.Divi Inn cottage]]>
+    </line>
+    <line>
+      <![CDATA[183.DrizzleDrop Inn]]>
+    </line>
+    <line>
+      <![CDATA[184.PSR Residency]]>
+    </line>
+    <line>
+      <![CDATA[185.OYO Flagship 49925 Divi Heritage Inn]]>
+    </line>
+    <line>
+      <![CDATA[186.DE AMOR]]>
+    </line>
+    <line>
+      <![CDATA[187.Honey huts Budget stay]]>
+    </line>
+    <line>
+      <![CDATA[188.Blue hills homes]]>
+    </line>
+    <line>
+      <![CDATA[189.Sagar Holiday Inn]]>
+    </line>
+    <line>
+      <![CDATA[190.Aishwariya Cottages]]>
+    </line>
+    <line>
+      <![CDATA[191.MMR HOLIDAY INN]]>
+    </line>
+    <line>
+      <![CDATA[192.West Hill Daffodils Inn]]>
+    </line>
+    <line>
+      <![CDATA[193.Coonoor Homestay]]>
+    </line>
+    <line>
+      <![CDATA[194.Sivarajaa Residency]]>
+    </line>
+    <line>
+      <![CDATA[195.CASA FELICIA- Adding Happy Moments to Your Diary]]>
+    </line>
+    <line>
+      <![CDATA[196.Av villa belmont]]>
+    </line>
+    <line>
+      <![CDATA[197.The first corner kallatty ooty]]>
+    </line>
+    <line>
+      <![CDATA[198.Nakshatra Grand]]>
+    </line>
+    <line>
+      <![CDATA[199.Eadenz valley view cottages]]>
+    </line>
+    <line>
+      <![CDATA[200.SJM Residency]]>
+    </line>
+    <line>
+      <![CDATA[201.R J INN]]>
+    </line>
+    <line>
+      <![CDATA[202.Pebrock Heritage Inn]]>
+    </line>
+    <line>
+      <![CDATA[203.J R Mist Valley]]>
+    </line>
+    <line>
+      <![CDATA[204.Daffodil Cottages]]>
+    </line>
+    <line>
+      <![CDATA[205.The JLG cottages]]>
+    </line>
+    <line>
+      <![CDATA[206.Radiant cottage]]>
+    </line>
+    <line>
+      <![CDATA[207.PS Cottage Arni house]]>
+    </line>
+    <line>
+      <![CDATA[208.Vista Suites by Nivetsa, Ooty]]>
+    </line>
+    <line>
+      <![CDATA[209.Avocado holidays]]>
+    </line>
+    <line>
+      <![CDATA[210.Westwood bungalow]]>
+    </line>
+    <line>
+      <![CDATA[211.GanGas 3BHK Cottage]]>
+    </line>
+    <line>
+      <![CDATA[212.Honey hut]]>
+    </line>
+    <line>
+      <![CDATA[213.RM Cottage Ooty]]>
+    </line>
+    <line>
+      <![CDATA[214.Green hills Kallati]]>
+    </line>
+    <line>
+      <![CDATA[215.Nahar's Residency Hotel]]>
+    </line>
+    <line>
+      <![CDATA[216.Tiger Belmonte Cottage]]>
+    </line>
+    <line>
+      <![CDATA[217.S.R RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[218.Eden inn Ooty]]>
+    </line>
+    <line>
+      <![CDATA[219.Misty Green villa]]>
+    </line>
+    <line>
+      <![CDATA[220.Bairava Cottage]]>
+    </line>
+    <line>
+      <![CDATA[221.The Anmols cottage]]>
+    </line>
+    <line>
+      <![CDATA[222.as residency]]>
+    </line>
+    <line>
+      <![CDATA[223.Adrika's Maple View Resort]]>
+    </line>
+    <line>
+      <![CDATA[224.FabHotel Greenwood Resort]]>
+    </line>
+    <line>
+      <![CDATA[225.GV cottages Finger post]]>
+    </line>
+    <line>
+      <![CDATA[226.RAM LAKSHMI COTTAGE]]>
+    </line>
+    <line>
+      <![CDATA[227.White house cottage]]>
+    </line>
+    <line>
+      <![CDATA[228.Kumaran homestay]]>
+    </line>
+    <line>
+      <![CDATA[229.Pine Forest View Residency]]>
+    </line>
+    <line>
+      <![CDATA[230.Seven Endue Cottages]]>
+    </line>
+    <line>
+      <![CDATA[231.Kiara Cottage]]>
+    </line>
+    <line>
+      <![CDATA[232.The B Tree Resorts]]>
+    </line>
+    <line>
+      <![CDATA[233.Mohan's Villa]]>
+    </line>
+    <line>
+      <![CDATA[234.Sanctuary Boutique Hotel]]>
+    </line>
+    <line>
+      <![CDATA[235.GK Homestay]]>
+    </line>
+    <line>
+      <![CDATA[236.Castle Bungalow]]>
+    </line>
+    <line>
+      <![CDATA[237.Valley homes]]>
+    </line>
+    <line>
+      <![CDATA[238.Hotel Orchid Inn]]>
+    </line>
+    <line>
+      <![CDATA[239.Vels Court Inn]]>
+    </line>
+    <line>
+      <![CDATA[240.Lourds Ville Residency]]>
+    </line>
+    <line>
+      <![CDATA[241.Vasantham Cottage]]>
+    </line>
+    <line>
+      <![CDATA[242.Fitness De Royale Organic County]]>
+    </line>
+    <line>
+      <![CDATA[243.Ooty Budget stayz]]>
+    </line>
+    <line>
+      <![CDATA[244.SARAH RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[245.VASISTA'S Athithi bhavan]]>
+    </line>
+    <line>
+      <![CDATA[246.Snowdrops Ooty]]>
+    </line>
+    <line>
+      <![CDATA[247.Youth Hostel - Ooty]]>
+    </line>
+    <line>
+      <![CDATA[248.Blue Mountain Villa]]>
+    </line>
+    <line>
+      <![CDATA[249.Dee First Corner]]>
+    </line>
+    <line>
+      <![CDATA[250.GOLDEN RESORTS]]>
+    </line>
+    <line>
+      <![CDATA[251.Lalana Residency]]>
+    </line>
+    <line>
+      <![CDATA[252.Hill Inn Homestay]]>
+    </line>
+    <line>
+      <![CDATA[253.Veega Pearls Resorts]]>
+    </line>
+    <line>
+      <![CDATA[254.VASANTHAM PALACE]]>
+    </line>
+    <line>
+      <![CDATA[255.Aishwariya 3-BHK Cottage]]>
+    </line>
+    <line>
+      <![CDATA[256.Sherlock Homes]]>
+    </line>
+    <line>
+      <![CDATA[257.SRS Cottage]]>
+    </line>
+    <line>
+      <![CDATA[258.Train View Cottage]]>
+    </line>
+    <line>
+      <![CDATA[259.Glen View homestay]]>
+    </line>
+    <line>
+      <![CDATA[260.Yantra Leisures]]>
+    </line>
+    <line>
+      <![CDATA[261.Destiny The Farm Resort]]>
+    </line>
+    <line>
+      <![CDATA[262.Orion Cottage]]>
+    </line>
+    <line>
+      <![CDATA[263.Greenary inn]]>
+    </line>
+    <line>
+      <![CDATA[264.CUCKOO KUDIL HOME STAY]]>
+    </line>
+    <line>
+      <![CDATA[265.Sierra Vale]]>
+    </line>
+    <line>
+      <![CDATA[266.Hotel Lakshmi Cottage]]>
+    </line>
+    <line>
+      <![CDATA[267.Holiday Home near Ooty Lake]]>
+    </line>
+    <line>
+      <![CDATA[268.Mayberry]]>
+    </line>
+    <line>
+      <![CDATA[269.Hill View Dream Annex]]>
+    </line>
+    <line>
+      <![CDATA[270.Bellevue Homestay]]>
+    </line>
+    <line>
+      <![CDATA[271.Ooty Mas Cottage]]>
+    </line>
+    <line>
+      <![CDATA[272.Bellmount]]>
+    </line>
+    <line>
+      <![CDATA[273.Strawberry Cottage]]>
+    </line>
+    <line>
+      <![CDATA[274.Praba rooms and cottages]]>
+    </line>
+    <line>
+      <![CDATA[275.Saibala Residency]]>
+    </line>
+    <line>
+      <![CDATA[276.Sriram garden cottage]]>
+    </line>
+    <line>
+      <![CDATA[277.The Yellow leaf Cottages]]>
+    </line>
+    <line>
+      <![CDATA[278.SMT Homes]]>
+    </line>
+    <line>
+      <![CDATA[279.Royal Residency]]>
+    </line>
+    <line>
+      <![CDATA[280.Lovely Cottage]]>
+    </line>
+    <line>
+      <![CDATA[281.Bliss belmonte]]>
+    </line>
+    <line>
+      <![CDATA[282.Homely Cottages]]>
+    </line>
+    <line>
+      <![CDATA[283.Ranch Villa Ooty]]>
+    </line>
+    <line>
+      <![CDATA[284.Belmonte cottage]]>
+    </line>
+    <line>
+      <![CDATA[285.Cuckoo Nest Ooty]]>
+    </line>
+    <line>
+      <![CDATA[286.Paradise villa]]>
+    </line>
+    <line>
+      <![CDATA[287.Shafis Green Land]]>
+    </line>
+    <line>
+      <![CDATA[288.Abi Suvi Homestay]]>
+    </line>
+    <line>
+      <![CDATA[289.KS Cottage]]>
+    </line>
+    <line>
+      <![CDATA[290.The Wonder Hill]]>
+    </line>
+    <line>
+      <![CDATA[291.Top hill guest house]]>
+    </line>
+    <line>
+      <![CDATA[292.Gangothri]]>
+    </line>
+    <line>
+      <![CDATA[293.Dew cottages]]>
+    </line>
+    <line>
+      <![CDATA[294.Mayan Resorts]]>
+    </line>
+    <line>
+      <![CDATA[295.Club House Cottage I]]>
+    </line>
+    <line>
+      <![CDATA[296.accsys Impex Rooms]]>
+    </line>
+    <line>
+      <![CDATA[297.Rohith & Vijay Guest house]]>
+    </line>
+    <line>
+      <![CDATA[298.Ajay Residency]]>
+    </line>
+    <line>
+      <![CDATA[299.Kemps Camp]]>
+    </line>
+    <line>
+      <![CDATA[300.AISHWARIYAA GARDENS]]>
+    </line>
+    <line>
+      <![CDATA[301.TG Hills cottage]]>
+    </line>
+    <line>
+      <![CDATA[302.AS Stay Residency]]>
+    </line>
+    <line>
+      <![CDATA[303.Hills Cottages(1)]]>
+    </line>
+    <line>
+      <![CDATA[304.Travel Stay Residence]]>
+    </line>
+    <line>
+      <![CDATA[305.BM Cottage]]>
+    </line>
+    <line>
+      <![CDATA[306.Kurunji Residency]]>
+    </line>
+    <line>
+      <![CDATA[307.K R Cottage]]>
+    </line>
+    <line>
+      <![CDATA[308.Yaseen Cottages]]>
+    </line>
+    <line>
+      <![CDATA[309.NEELIMALAI RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[310.Drop Zone]]>
+    </line>
+    <line>
+      <![CDATA[311.TGT homes]]>
+    </line>
+    <line>
+      <![CDATA[312.GV residency]]>
+    </line>
+    <line>
+      <![CDATA[313.Pebrock cottage]]>
+    </line>
+    <line>
+      <![CDATA[314.S S Cottage]]>
+    </line>
+    <line>
+      <![CDATA[315.The Imperial royal stay]]>
+    </line>
+    <line>
+      <![CDATA[316.Sri Sai Cottage (Standard Room)]]>
+    </line>
+    <line>
+      <![CDATA[317.Woody's Misty home]]>
+    </line>
+    <line>
+      <![CDATA[318.Minis cottage]]>
+    </line>
+    <line>
+      <![CDATA[319.Eadenz rooms and cottage]]>
+    </line>
+    <line>
+      <![CDATA[320.Weston Holiday Inn]]>
+    </line>
+    <line>
+      <![CDATA[321.Golden park]]>
+    </line>
+    <line>
+      <![CDATA[322.The Smilestone]]>
+    </line>
+    <line>
+      <![CDATA[323.Maruthi Sunrise Cottage]]>
+    </line>
+    <line>
+      <![CDATA[324.The coral Yloo]]>
+    </line>
+    <line>
+      <![CDATA[325.OOTY Abisuvi Home Stay]]>
+    </line>
+    <line>
+      <![CDATA[326.Happy Homestay]]>
+    </line>
+    <line>
+      <![CDATA[327.Pine view stay]]>
+    </line>
+    <line>
+      <![CDATA[328.Coral bells]]>
+    </line>
+    <line>
+      <![CDATA[329.Marryland cottage]]>
+    </line>
+    <line>
+      <![CDATA[330.White Crystal Home]]>
+    </line>
+    <line>
+      <![CDATA[331.Tiger hill homestay]]>
+    </line>
+    <line>
+      <![CDATA[332.K P Cottage]]>
+    </line>
+    <line>
+      <![CDATA[333.The madhuvanna cottage]]>
+    </line>
+    <line>
+      <![CDATA[334.Silent wild Cottage]]>
+    </line>
+    <line>
+      <![CDATA[335.Stone hill Cottage]]>
+    </line>
+    <line>
+      <![CDATA[336.HILLTOP HOME STAY]]>
+    </line>
+    <line>
+      <![CDATA[337.Aura Cottage (Deluxe Room)]]>
+    </line>
+    <line>
+      <![CDATA[338.Gopi's Residency A Comfort stay]]>
+    </line>
+    <line>
+      <![CDATA[339.Osprey Cottage]]>
+    </line>
+    <line>
+      <![CDATA[340.Belmonte 3 bedroom villa]]>
+    </line>
+    <line>
+      <![CDATA[341.Hotel Gangothri Sunrise]]>
+    </line>
+    <line>
+      <![CDATA[342.Royal Heritage]]>
+    </line>
+    <line>
+      <![CDATA[343.Club House Cottage - Rooms (4 Bedded Room)]]>
+    </line>
+    <line>
+      <![CDATA[344.Vermount Resorts]]>
+    </line>
+    <line>
+      <![CDATA[345.Linga Villa]]>
+    </line>
+    <line>
+      <![CDATA[346.Swiya Holidays]]>
+    </line>
+    <line>
+      <![CDATA[347.The Black Magic Cottage]]>
+    </line>
+    <line>
+      <![CDATA[348.Collection O 24541 Ooty Highway Hotel]]>
+    </line>
+    <line>
+      <![CDATA[349.OYO 22786 The Nest]]>
+    </line>
+    <line>
+      <![CDATA[350.Collection O 14241 The Greenery - Holiday Inn]]>
+    </line>
+    <line>
+      <![CDATA[351.MANGO HILL OOTY]]>
+    </line>
+    <line>
+      <![CDATA[352.Space 4 Resorts]]>
+    </line>
+    <line>
+      <![CDATA[353.ONELOVEDALE Blusalz HOMES]]>
+    </line>
+    <line>
+      <![CDATA[354.Pearls Resorts]]>
+    </line>
+    <line>
+      <![CDATA[355.BS Dreams]]>
+    </line>
+    <line>
+      <![CDATA[356.Woodpeckers's Nest]]>
+    </line>
+    <line>
+      <![CDATA[357.Toda Room By Smyrna]]>
+    </line>
+    <line>
+      <![CDATA[358.Blue Room By Symrna]]>
+    </line>
+    <line>
+      <![CDATA[359.Chestnut By Smyrna]]>
+    </line>
+    <line>
+      <![CDATA[360.Magic Mist Resort]]>
+    </line>
+    <line>
+      <![CDATA[361.New Summit Villa Ooty]]>
+    </line>
+    <line>
+      <![CDATA[362.ONELOVEDALE Blusalz HOMES]]>
+    </line>
+    <line>
+      <![CDATA[363.HAPPYSTAY]]>
+    </line>
+    <line>
+      <![CDATA[364.Ooty Dormitories]]>
+    </line>
+    <line>
+      <![CDATA[365.OYO 80097 Shiva Shanthi Inn]]>
+    </line>
+    <line>
+      <![CDATA[366.The GV Residency]]>
+    </line>
+    <line>
+      <![CDATA[367.GK Villa]]>
+    </line>
+    <line>
+      <![CDATA[The name of the testcase passed is: HOTELSEARCH]]>
+    </line>
+    <line>
+      <![CDATA[Test case started: HOTELBOOKING]]>
+    </line>
+    <line>
+      <![CDATA[Existing rooms 1and Required rooms 1 are same.]]>
+    </line>
+    <line>
+      <![CDATA[Minus button at adults section is clicked 1 times]]>
+    </line>
+    <line>
+      <![CDATA[Existing rooms 0and Required rooms 0 are same.]]>
+    </line>
+    <line>
+      <![CDATA[The Total Number of Hotels are 100]]>
+    </line>
+    <line>
+      <![CDATA[Please find the Hotel names below:  ]]>
+    </line>
+    <line>
+      <![CDATA[1.AURORA LIGHT RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[2.Rainbow Cottage]]>
+    </line>
+    <line>
+      <![CDATA[3.Chettinad Avenue]]>
+    </line>
+    <line>
+      <![CDATA[4.Hotel Sapphire Paradise]]>
+    </line>
+    <line>
+      <![CDATA[5.Wild zest]]>
+    </line>
+    <line>
+      <![CDATA[6.Green Apple Residence]]>
+    </line>
+    <line>
+      <![CDATA[7.The Majestic Crown]]>
+    </line>
+    <line>
+      <![CDATA[8.Garden Manor]]>
+    </line>
+    <line>
+      <![CDATA[9.Hill Crest Metro]]>
+    </line>
+    <line>
+      <![CDATA[10.Sterling Ooty Elk Hill]]>
+    </line>
+    <line>
+      <![CDATA[11.Venus Holiday Home]]>
+    </line>
+    <line>
+      <![CDATA[12.Hotel Lakeview]]>
+    </line>
+    <line>
+      <![CDATA[13.Greenyards]]>
+    </line>
+    <line>
+      <![CDATA[14.FabHotel Sholas Residency I]]>
+    </line>
+    <line>
+      <![CDATA[15.OYO 13118 Twin Falls]]>
+    </line>
+    <line>
+      <![CDATA[16.Hotel Charring Cross]]>
+    </line>
+    <line>
+      <![CDATA[17.OYO 78034 New Star Cottages]]>
+    </line>
+    <line>
+      <![CDATA[18.Glen Park Inn]]>
+    </line>
+    <line>
+      <![CDATA[19.OYO 79915 SRJs Thaneesh Residency]]>
+    </line>
+    <line>
+      <![CDATA[20.Parkside Residency]]>
+    </line>
+    <line>
+      <![CDATA[21.The Monarch]]>
+    </line>
+    <line>
+      <![CDATA[22.The Green valley resorts]]>
+    </line>
+    <line>
+      <![CDATA[23.Beverly Villa]]>
+    </line>
+    <line>
+      <![CDATA[24.Oriental Grand]]>
+    </line>
+    <line>
+      <![CDATA[25.FabExpress Grand Castle Hill Resorts]]>
+    </line>
+    <line>
+      <![CDATA[26.Mountain Trails]]>
+    </line>
+    <line>
+      <![CDATA[27.Hotel Astoria Residency]]>
+    </line>
+    <line>
+      <![CDATA[28.Tulips valley view resorts]]>
+    </line>
+    <line>
+      <![CDATA[29.Rose Park Residency]]>
+    </line>
+    <line>
+      <![CDATA[30.Tulips Elkhill Resorts]]>
+    </line>
+    <line>
+      <![CDATA[31.Hotel Carnation]]>
+    </line>
+    <line>
+      <![CDATA[32.Zostel Ooty]]>
+    </line>
+    <line>
+      <![CDATA[33.YWCA Anandagiri Ooty]]>
+    </line>
+    <line>
+      <![CDATA[34.Fortune Retreats]]>
+    </line>
+    <line>
+      <![CDATA[35.Al-Woodlands Residency]]>
+    </line>
+    <line>
+      <![CDATA[36.Dew Drop Inn]]>
+    </line>
+    <line>
+      <![CDATA[37.OYO 78121 Red Rock]]>
+    </line>
+    <line>
+      <![CDATA[38.La Montana by TGI]]>
+    </line>
+    <line>
+      <![CDATA[39.Vinayaga Inn by Poppys]]>
+    </line>
+    <line>
+      <![CDATA[40.FabHotel Khems]]>
+    </line>
+    <line>
+      <![CDATA[41.Hotel Sapphire Grand]]>
+    </line>
+    <line>
+      <![CDATA[42.Hotel Fairstay]]>
+    </line>
+    <line>
+      <![CDATA[43.The Red House]]>
+    </line>
+    <line>
+      <![CDATA[44.A Ooty Honey Huts]]>
+    </line>
+    <line>
+      <![CDATA[45.Sabol Holiday Resorts]]>
+    </line>
+    <line>
+      <![CDATA[46.The Bowers Chalet]]>
+    </line>
+    <line>
+      <![CDATA[47.Hotel Welbeck Residency]]>
+    </line>
+    <line>
+      <![CDATA[48.OYO 4427 Hotel Gaylord]]>
+    </line>
+    <line>
+      <![CDATA[49.Sterling Ooty Fern Hill]]>
+    </line>
+    <line>
+      <![CDATA[50.Mount View Heritage Hotel]]>
+    </line>
+    <line>
+      <![CDATA[51.Silver Bett Resort]]>
+    </line>
+    <line>
+      <![CDATA[52.Delightz Inn]]>
+    </line>
+    <line>
+      <![CDATA[53.Green Leaves, The countryside Inn(8 kms from Ooty)]]>
+    </line>
+    <line>
+      <![CDATA[54.kumaran cottage]]>
+    </line>
+    <line>
+      <![CDATA[55.RK Homes Guest House]]>
+    </line>
+    <line>
+      <![CDATA[56.Hotel Alakapuri]]>
+    </line>
+    <line>
+      <![CDATA[57.FabHotel Sun Park Grand]]>
+    </line>
+    <line>
+      <![CDATA[58.Leopard Rock Wilderness Resort]]>
+    </line>
+    <line>
+      <![CDATA[59.DARSHAN HOTEL]]>
+    </line>
+    <line>
+      <![CDATA[60.Deccan Park]]>
+    </line>
+    <line>
+      <![CDATA[61.Hotel Meadows Residency]]>
+    </line>
+    <line>
+      <![CDATA[62.Hotel Tamilnadu, Ooty]]>
+    </line>
+    <line>
+      <![CDATA[63.Glyngarth Resort (10km Away from Ooty)]]>
+    </line>
+    <line>
+      <![CDATA[64.Vista Suites Kalatti]]>
+    </line>
+    <line>
+      <![CDATA[65.Accord HighLand]]>
+    </line>
+    <line>
+      <![CDATA[66.Raasinihas Paradise]]>
+    </line>
+    <line>
+      <![CDATA[67.Sinclairs Retreat Ooty]]>
+    </line>
+    <line>
+      <![CDATA[68.Motherland Residency]]>
+    </line>
+    <line>
+      <![CDATA[69.OYO 10950 Hotel Hills Palace]]>
+    </line>
+    <line>
+      <![CDATA[70.Western Valley Resorts]]>
+    </line>
+    <line>
+      <![CDATA[71.A2B Residency Ooty]]>
+    </line>
+    <line>
+      <![CDATA[72.Tuccil]]>
+    </line>
+    <line>
+      <![CDATA[73.Ooty Residency]]>
+    </line>
+    <line>
+      <![CDATA[74.DIO BEAUMOUNT]]>
+    </line>
+    <line>
+      <![CDATA[75.De Santosh Residency]]>
+    </line>
+    <line>
+      <![CDATA[76.OYO 35818 Twin Falls Residency]]>
+    </line>
+    <line>
+      <![CDATA[77.Golden Springs]]>
+    </line>
+    <line>
+      <![CDATA[78.Hotel Khems]]>
+    </line>
+    <line>
+      <![CDATA[79.Tiger Hill Homestay]]>
+    </line>
+    <line>
+      <![CDATA[80.La Blooms]]>
+    </line>
+    <line>
+      <![CDATA[81.OYO 7665 Home Stay Fable Stay]]>
+    </line>
+    <line>
+      <![CDATA[82.Palve sugavasam]]>
+    </line>
+    <line>
+      <![CDATA[83.The Byke Sunshine Grand]]>
+    </line>
+    <line>
+      <![CDATA[84.Hotel Preethi Classic Towers]]>
+    </line>
+    <line>
+      <![CDATA[85.I- India]]>
+    </line>
+    <line>
+      <![CDATA[86.SV RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[87.Rock Ooty]]>
+    </line>
+    <line>
+      <![CDATA[88.Kemps cave]]>
+    </line>
+    <line>
+      <![CDATA[89.Taj Cottage]]>
+    </line>
+    <line>
+      <![CDATA[90.Hill Bird Homestay]]>
+    </line>
+    <line>
+      <![CDATA[91.OYO Flagship 44245 Hotel Rainforest Thalayathimund]]>
+    </line>
+    <line>
+      <![CDATA[92.PHOENIX STAY Ooty]]>
+    </line>
+    <line>
+      <![CDATA[93.Skylarc inn]]>
+    </line>
+    <line>
+      <![CDATA[94.Hotel Maneck]]>
+    </line>
+    <line>
+      <![CDATA[95.Berry Hills Resort]]>
+    </line>
+    <line>
+      <![CDATA[96.MANGO HILL CENTRAL OOTY]]>
+    </line>
+    <line>
+      <![CDATA[97.Gem Park]]>
+    </line>
+    <line>
+      <![CDATA[98.Vermont Valley Cottages By NiveTsa]]>
+    </line>
+    <line>
+      <![CDATA[99.Anmols Impex Cottage]]>
+    </line>
+    <line>
+      <![CDATA[100.RN Holidays]]>
+    </line>
+    <line>
+      <![CDATA[The name of the testcase failed is: HOTELBOOKING]]>
+    </line>
+    <line>
+      <![CDATA[Test case started: HOTELDETAILS]]>
+    </line>
+    <line>
+      <![CDATA[Existing rooms 1and Required rooms 1 are same.]]>
+    </line>
+    <line>
+      <![CDATA[Minus button at adults section is clicked 1 times]]>
+    </line>
+    <line>
+      <![CDATA[Existing rooms 0and Required rooms 0 are same.]]>
+    </line>
+    <line>
+      <![CDATA[The Total Number of Hotels are 80]]>
+    </line>
+    <line>
+      <![CDATA[Please find the Hotel names below:  ]]>
+    </line>
+    <line>
+      <![CDATA[1.AURORA LIGHT RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[2.Rainbow Cottage]]>
+    </line>
+    <line>
+      <![CDATA[3.Chettinad Avenue]]>
+    </line>
+    <line>
+      <![CDATA[4.Hotel Sapphire Paradise]]>
+    </line>
+    <line>
+      <![CDATA[5.Wild zest]]>
+    </line>
+    <line>
+      <![CDATA[6.Green Apple Residence]]>
+    </line>
+    <line>
+      <![CDATA[7.The Majestic Crown]]>
+    </line>
+    <line>
+      <![CDATA[8.Garden Manor]]>
+    </line>
+    <line>
+      <![CDATA[9.Hill Crest Metro]]>
+    </line>
+    <line>
+      <![CDATA[10.Sterling Ooty Elk Hill]]>
+    </line>
+    <line>
+      <![CDATA[11.Venus Holiday Home]]>
+    </line>
+    <line>
+      <![CDATA[12.Hotel Lakeview]]>
+    </line>
+    <line>
+      <![CDATA[13.Greenyards]]>
+    </line>
+    <line>
+      <![CDATA[14.FabHotel Sholas Residency I]]>
+    </line>
+    <line>
+      <![CDATA[15.OYO 13118 Twin Falls]]>
+    </line>
+    <line>
+      <![CDATA[16.Hotel Charring Cross]]>
+    </line>
+    <line>
+      <![CDATA[17.OYO 78034 New Star Cottages]]>
+    </line>
+    <line>
+      <![CDATA[18.Glen Park Inn]]>
+    </line>
+    <line>
+      <![CDATA[19.OYO 79915 SRJs Thaneesh Residency]]>
+    </line>
+    <line>
+      <![CDATA[20.Parkside Residency]]>
+    </line>
+    <line>
+      <![CDATA[21.The Monarch]]>
+    </line>
+    <line>
+      <![CDATA[22.The Green valley resorts]]>
+    </line>
+    <line>
+      <![CDATA[23.Beverly Villa]]>
+    </line>
+    <line>
+      <![CDATA[24.Oriental Grand]]>
+    </line>
+    <line>
+      <![CDATA[25.FabExpress Grand Castle Hill Resorts]]>
+    </line>
+    <line>
+      <![CDATA[26.Mountain Trails]]>
+    </line>
+    <line>
+      <![CDATA[27.Hotel Astoria Residency]]>
+    </line>
+    <line>
+      <![CDATA[28.Tulips valley view resorts]]>
+    </line>
+    <line>
+      <![CDATA[29.Rose Park Residency]]>
+    </line>
+    <line>
+      <![CDATA[30.Tulips Elkhill Resorts]]>
+    </line>
+    <line>
+      <![CDATA[31.Hotel Carnation]]>
+    </line>
+    <line>
+      <![CDATA[32.Zostel Ooty]]>
+    </line>
+    <line>
+      <![CDATA[33.YWCA Anandagiri Ooty]]>
+    </line>
+    <line>
+      <![CDATA[34.Fortune Retreats]]>
+    </line>
+    <line>
+      <![CDATA[35.Al-Woodlands Residency]]>
+    </line>
+    <line>
+      <![CDATA[36.Dew Drop Inn]]>
+    </line>
+    <line>
+      <![CDATA[37.OYO 78121 Red Rock]]>
+    </line>
+    <line>
+      <![CDATA[38.La Montana by TGI]]>
+    </line>
+    <line>
+      <![CDATA[39.Vinayaga Inn by Poppys]]>
+    </line>
+    <line>
+      <![CDATA[40.FabHotel Khems]]>
+    </line>
+    <line>
+      <![CDATA[41.Hotel Sapphire Grand]]>
+    </line>
+    <line>
+      <![CDATA[42.Hotel Fairstay]]>
+    </line>
+    <line>
+      <![CDATA[43.The Red House]]>
+    </line>
+    <line>
+      <![CDATA[44.A Ooty Honey Huts]]>
+    </line>
+    <line>
+      <![CDATA[45.Sabol Holiday Resorts]]>
+    </line>
+    <line>
+      <![CDATA[46.The Bowers Chalet]]>
+    </line>
+    <line>
+      <![CDATA[47.Hotel Welbeck Residency]]>
+    </line>
+    <line>
+      <![CDATA[48.OYO 4427 Hotel Gaylord]]>
+    </line>
+    <line>
+      <![CDATA[49.Sterling Ooty Fern Hill]]>
+    </line>
+    <line>
+      <![CDATA[50.Mount View Heritage Hotel]]>
+    </line>
+    <line>
+      <![CDATA[51.Silver Bett Resort]]>
+    </line>
+    <line>
+      <![CDATA[52.Delightz Inn]]>
+    </line>
+    <line>
+      <![CDATA[53.Green Leaves, The countryside Inn(8 kms from Ooty)]]>
+    </line>
+    <line>
+      <![CDATA[54.kumaran cottage]]>
+    </line>
+    <line>
+      <![CDATA[55.RK Homes Guest House]]>
+    </line>
+    <line>
+      <![CDATA[56.Hotel Alakapuri]]>
+    </line>
+    <line>
+      <![CDATA[57.FabHotel Sun Park Grand]]>
+    </line>
+    <line>
+      <![CDATA[58.Leopard Rock Wilderness Resort]]>
+    </line>
+    <line>
+      <![CDATA[59.DARSHAN HOTEL]]>
+    </line>
+    <line>
+      <![CDATA[60.Deccan Park]]>
+    </line>
+    <line>
+      <![CDATA[61.Hotel Meadows Residency]]>
+    </line>
+    <line>
+      <![CDATA[62.Hotel Tamilnadu, Ooty]]>
+    </line>
+    <line>
+      <![CDATA[63.Glyngarth Resort (10km Away from Ooty)]]>
+    </line>
+    <line>
+      <![CDATA[64.Vista Suites Kalatti]]>
+    </line>
+    <line>
+      <![CDATA[65.Accord HighLand]]>
+    </line>
+    <line>
+      <![CDATA[66.Raasinihas Paradise]]>
+    </line>
+    <line>
+      <![CDATA[67.Sinclairs Retreat Ooty]]>
+    </line>
+    <line>
+      <![CDATA[68.Motherland Residency]]>
+    </line>
+    <line>
+      <![CDATA[69.OYO 10950 Hotel Hills Palace]]>
+    </line>
+    <line>
+      <![CDATA[70.Western Valley Resorts]]>
+    </line>
+    <line>
+      <![CDATA[71.A2B Residency Ooty]]>
+    </line>
+    <line>
+      <![CDATA[72.Tuccil]]>
+    </line>
+    <line>
+      <![CDATA[73.Ooty Residency]]>
+    </line>
+    <line>
+      <![CDATA[74.DIO BEAUMOUNT]]>
+    </line>
+    <line>
+      <![CDATA[75.De Santosh Residency]]>
+    </line>
+    <line>
+      <![CDATA[76.OYO 35818 Twin Falls Residency]]>
+    </line>
+    <line>
+      <![CDATA[77.Golden Springs]]>
+    </line>
+    <line>
+      <![CDATA[78.Hotel Khems]]>
+    </line>
+    <line>
+      <![CDATA[79.Tiger Hill Homestay]]>
+    </line>
+    <line>
+      <![CDATA[80.La Blooms]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737664795.png'> <img src='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737664795.png' height='500' width='500'/></a> ]]>
+    </line>
+    <line>
+      <![CDATA[The name of the testcase passed is: HOTELDETAILS]]>
+    </line>
+    <line>
+      <![CDATA[Test case started: HOTELFILTERS]]>
+    </line>
+    <line>
+      <![CDATA[Existing rooms 1and Required rooms 1 are same.]]>
+    </line>
+    <line>
+      <![CDATA[Minus button at adults section is clicked 1 times]]>
+    </line>
+    <line>
+      <![CDATA[Existing rooms 0and Required rooms 0 are same.]]>
+    </line>
+    <line>
+      <![CDATA[The Total Number of Hotels are 40]]>
+    </line>
+    <line>
+      <![CDATA[Please find the Hotel names below:  ]]>
+    </line>
+    <line>
+      <![CDATA[1.AURORA LIGHT RESIDENCY]]>
+    </line>
+    <line>
+      <![CDATA[2.Rainbow Cottage]]>
+    </line>
+    <line>
+      <![CDATA[3.Chettinad Avenue]]>
+    </line>
+    <line>
+      <![CDATA[4.Hotel Sapphire Paradise]]>
+    </line>
+    <line>
+      <![CDATA[5.Wild zest]]>
+    </line>
+    <line>
+      <![CDATA[6.Green Apple Residence]]>
+    </line>
+    <line>
+      <![CDATA[7.The Majestic Crown]]>
+    </line>
+    <line>
+      <![CDATA[8.Garden Manor]]>
+    </line>
+    <line>
+      <![CDATA[9.Hill Crest Metro]]>
+    </line>
+    <line>
+      <![CDATA[10.Sterling Ooty Elk Hill]]>
+    </line>
+    <line>
+      <![CDATA[11.Venus Holiday Home]]>
+    </line>
+    <line>
+      <![CDATA[12.Hotel Lakeview]]>
+    </line>
+    <line>
+      <![CDATA[13.Greenyards]]>
+    </line>
+    <line>
+      <![CDATA[14.FabHotel Sholas Residency I]]>
+    </line>
+    <line>
+      <![CDATA[15.OYO 13118 Twin Falls]]>
+    </line>
+    <line>
+      <![CDATA[16.Hotel Charring Cross]]>
+    </line>
+    <line>
+      <![CDATA[17.OYO 78034 New Star Cottages]]>
+    </line>
+    <line>
+      <![CDATA[18.Glen Park Inn]]>
+    </line>
+    <line>
+      <![CDATA[19.OYO 79915 SRJs Thaneesh Residency]]>
+    </line>
+    <line>
+      <![CDATA[20.Parkside Residency]]>
+    </line>
+    <line>
+      <![CDATA[21.The Monarch]]>
+    </line>
+    <line>
+      <![CDATA[22.The Green valley resorts]]>
+    </line>
+    <line>
+      <![CDATA[23.Beverly Villa]]>
+    </line>
+    <line>
+      <![CDATA[24.Oriental Grand]]>
+    </line>
+    <line>
+      <![CDATA[25.FabExpress Grand Castle Hill Resorts]]>
+    </line>
+    <line>
+      <![CDATA[26.Mountain Trails]]>
+    </line>
+    <line>
+      <![CDATA[27.Hotel Astoria Residency]]>
+    </line>
+    <line>
+      <![CDATA[28.Tulips valley view resorts]]>
+    </line>
+    <line>
+      <![CDATA[29.Rose Park Residency]]>
+    </line>
+    <line>
+      <![CDATA[30.Tulips Elkhill Resorts]]>
+    </line>
+    <line>
+      <![CDATA[31.Hotel Carnation]]>
+    </line>
+    <line>
+      <![CDATA[32.Zostel Ooty]]>
+    </line>
+    <line>
+      <![CDATA[33.YWCA Anandagiri Ooty]]>
+    </line>
+    <line>
+      <![CDATA[34.Fortune Retreats]]>
+    </line>
+    <line>
+      <![CDATA[35.Al-Woodlands Residency]]>
+    </line>
+    <line>
+      <![CDATA[36.Dew Drop Inn]]>
+    </line>
+    <line>
+      <![CDATA[37.OYO 78121 Red Rock]]>
+    </line>
+    <line>
+      <![CDATA[38.La Montana by TGI]]>
+    </line>
+    <line>
+      <![CDATA[39.Vinayaga Inn by Poppys]]>
+    </line>
+    <line>
+      <![CDATA[40.FabHotel Khems]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737966464.png'> <img src='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737966464.png' height='500' width='500'/></a> ]]>
+    </line>
+    <line>
+      <![CDATA[The name of the testcase passed is: HOTELFILTERS]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-08T16:24:23 IST" name="Goibibo Suite" finished-at="2022-03-08T16:42:53 IST" duration-ms="1110656">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T16:24:23 IST" name="Goibibo Tests" finished-at="2022-03-08T16:42:53 IST" duration-ms="1110656">
+      <class name="com.goibibo.tests.TS_002_Hotel_Booking">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.goibibo.tests.TS_002_Hotel_Booking@5f8e8a9d]" started-at="2022-03-08T16:24:42 IST" name="beforeTest" finished-at="2022-03-08T16:24:47 IST" duration-ms="5136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="hotelBooking(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.goibibo.tests.TS_002_Hotel_Booking@5f8e8a9d]" started-at="2022-03-08T16:32:22 IST" name="hotelBooking" data-provider="DataProvider" finished-at="2022-03-08T16:35:57 IST" duration-ms="214743" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ooty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Mountain Trails]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Mr]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[dsbk]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[dsbk]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[gsar@gm.com]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[91]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[8282345643]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[724762834]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[haswin]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[1232]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Valdiation errors are [Please Enter Valid Card Number, Please Enter Valid CVV Number] expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Valdiation errors are [Please Enter Valid Card Number, Please Enter Valid CVV Number] expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertFalse(Assert.java:67)
+at com.goibibo.tests.TS_002_Hotel_Booking.hotelBooking(TS_002_Hotel_Booking.java:126)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case started: HOTELBOOKING]]>
+            </line>
+            <line>
+              <![CDATA[Existing rooms 1and Required rooms 1 are same.]]>
+            </line>
+            <line>
+              <![CDATA[Minus button at adults section is clicked 1 times]]>
+            </line>
+            <line>
+              <![CDATA[Existing rooms 0and Required rooms 0 are same.]]>
+            </line>
+            <line>
+              <![CDATA[The Total Number of Hotels are 100]]>
+            </line>
+            <line>
+              <![CDATA[Please find the Hotel names below:  ]]>
+            </line>
+            <line>
+              <![CDATA[1.AURORA LIGHT RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[2.Rainbow Cottage]]>
+            </line>
+            <line>
+              <![CDATA[3.Chettinad Avenue]]>
+            </line>
+            <line>
+              <![CDATA[4.Hotel Sapphire Paradise]]>
+            </line>
+            <line>
+              <![CDATA[5.Wild zest]]>
+            </line>
+            <line>
+              <![CDATA[6.Green Apple Residence]]>
+            </line>
+            <line>
+              <![CDATA[7.The Majestic Crown]]>
+            </line>
+            <line>
+              <![CDATA[8.Garden Manor]]>
+            </line>
+            <line>
+              <![CDATA[9.Hill Crest Metro]]>
+            </line>
+            <line>
+              <![CDATA[10.Sterling Ooty Elk Hill]]>
+            </line>
+            <line>
+              <![CDATA[11.Venus Holiday Home]]>
+            </line>
+            <line>
+              <![CDATA[12.Hotel Lakeview]]>
+            </line>
+            <line>
+              <![CDATA[13.Greenyards]]>
+            </line>
+            <line>
+              <![CDATA[14.FabHotel Sholas Residency I]]>
+            </line>
+            <line>
+              <![CDATA[15.OYO 13118 Twin Falls]]>
+            </line>
+            <line>
+              <![CDATA[16.Hotel Charring Cross]]>
+            </line>
+            <line>
+              <![CDATA[17.OYO 78034 New Star Cottages]]>
+            </line>
+            <line>
+              <![CDATA[18.Glen Park Inn]]>
+            </line>
+            <line>
+              <![CDATA[19.OYO 79915 SRJs Thaneesh Residency]]>
+            </line>
+            <line>
+              <![CDATA[20.Parkside Residency]]>
+            </line>
+            <line>
+              <![CDATA[21.The Monarch]]>
+            </line>
+            <line>
+              <![CDATA[22.The Green valley resorts]]>
+            </line>
+            <line>
+              <![CDATA[23.Beverly Villa]]>
+            </line>
+            <line>
+              <![CDATA[24.Oriental Grand]]>
+            </line>
+            <line>
+              <![CDATA[25.FabExpress Grand Castle Hill Resorts]]>
+            </line>
+            <line>
+              <![CDATA[26.Mountain Trails]]>
+            </line>
+            <line>
+              <![CDATA[27.Hotel Astoria Residency]]>
+            </line>
+            <line>
+              <![CDATA[28.Tulips valley view resorts]]>
+            </line>
+            <line>
+              <![CDATA[29.Rose Park Residency]]>
+            </line>
+            <line>
+              <![CDATA[30.Tulips Elkhill Resorts]]>
+            </line>
+            <line>
+              <![CDATA[31.Hotel Carnation]]>
+            </line>
+            <line>
+              <![CDATA[32.Zostel Ooty]]>
+            </line>
+            <line>
+              <![CDATA[33.YWCA Anandagiri Ooty]]>
+            </line>
+            <line>
+              <![CDATA[34.Fortune Retreats]]>
+            </line>
+            <line>
+              <![CDATA[35.Al-Woodlands Residency]]>
+            </line>
+            <line>
+              <![CDATA[36.Dew Drop Inn]]>
+            </line>
+            <line>
+              <![CDATA[37.OYO 78121 Red Rock]]>
+            </line>
+            <line>
+              <![CDATA[38.La Montana by TGI]]>
+            </line>
+            <line>
+              <![CDATA[39.Vinayaga Inn by Poppys]]>
+            </line>
+            <line>
+              <![CDATA[40.FabHotel Khems]]>
+            </line>
+            <line>
+              <![CDATA[41.Hotel Sapphire Grand]]>
+            </line>
+            <line>
+              <![CDATA[42.Hotel Fairstay]]>
+            </line>
+            <line>
+              <![CDATA[43.The Red House]]>
+            </line>
+            <line>
+              <![CDATA[44.A Ooty Honey Huts]]>
+            </line>
+            <line>
+              <![CDATA[45.Sabol Holiday Resorts]]>
+            </line>
+            <line>
+              <![CDATA[46.The Bowers Chalet]]>
+            </line>
+            <line>
+              <![CDATA[47.Hotel Welbeck Residency]]>
+            </line>
+            <line>
+              <![CDATA[48.OYO 4427 Hotel Gaylord]]>
+            </line>
+            <line>
+              <![CDATA[49.Sterling Ooty Fern Hill]]>
+            </line>
+            <line>
+              <![CDATA[50.Mount View Heritage Hotel]]>
+            </line>
+            <line>
+              <![CDATA[51.Silver Bett Resort]]>
+            </line>
+            <line>
+              <![CDATA[52.Delightz Inn]]>
+            </line>
+            <line>
+              <![CDATA[53.Green Leaves, The countryside Inn(8 kms from Ooty)]]>
+            </line>
+            <line>
+              <![CDATA[54.kumaran cottage]]>
+            </line>
+            <line>
+              <![CDATA[55.RK Homes Guest House]]>
+            </line>
+            <line>
+              <![CDATA[56.Hotel Alakapuri]]>
+            </line>
+            <line>
+              <![CDATA[57.FabHotel Sun Park Grand]]>
+            </line>
+            <line>
+              <![CDATA[58.Leopard Rock Wilderness Resort]]>
+            </line>
+            <line>
+              <![CDATA[59.DARSHAN HOTEL]]>
+            </line>
+            <line>
+              <![CDATA[60.Deccan Park]]>
+            </line>
+            <line>
+              <![CDATA[61.Hotel Meadows Residency]]>
+            </line>
+            <line>
+              <![CDATA[62.Hotel Tamilnadu, Ooty]]>
+            </line>
+            <line>
+              <![CDATA[63.Glyngarth Resort (10km Away from Ooty)]]>
+            </line>
+            <line>
+              <![CDATA[64.Vista Suites Kalatti]]>
+            </line>
+            <line>
+              <![CDATA[65.Accord HighLand]]>
+            </line>
+            <line>
+              <![CDATA[66.Raasinihas Paradise]]>
+            </line>
+            <line>
+              <![CDATA[67.Sinclairs Retreat Ooty]]>
+            </line>
+            <line>
+              <![CDATA[68.Motherland Residency]]>
+            </line>
+            <line>
+              <![CDATA[69.OYO 10950 Hotel Hills Palace]]>
+            </line>
+            <line>
+              <![CDATA[70.Western Valley Resorts]]>
+            </line>
+            <line>
+              <![CDATA[71.A2B Residency Ooty]]>
+            </line>
+            <line>
+              <![CDATA[72.Tuccil]]>
+            </line>
+            <line>
+              <![CDATA[73.Ooty Residency]]>
+            </line>
+            <line>
+              <![CDATA[74.DIO BEAUMOUNT]]>
+            </line>
+            <line>
+              <![CDATA[75.De Santosh Residency]]>
+            </line>
+            <line>
+              <![CDATA[76.OYO 35818 Twin Falls Residency]]>
+            </line>
+            <line>
+              <![CDATA[77.Golden Springs]]>
+            </line>
+            <line>
+              <![CDATA[78.Hotel Khems]]>
+            </line>
+            <line>
+              <![CDATA[79.Tiger Hill Homestay]]>
+            </line>
+            <line>
+              <![CDATA[80.La Blooms]]>
+            </line>
+            <line>
+              <![CDATA[81.OYO 7665 Home Stay Fable Stay]]>
+            </line>
+            <line>
+              <![CDATA[82.Palve sugavasam]]>
+            </line>
+            <line>
+              <![CDATA[83.The Byke Sunshine Grand]]>
+            </line>
+            <line>
+              <![CDATA[84.Hotel Preethi Classic Towers]]>
+            </line>
+            <line>
+              <![CDATA[85.I- India]]>
+            </line>
+            <line>
+              <![CDATA[86.SV RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[87.Rock Ooty]]>
+            </line>
+            <line>
+              <![CDATA[88.Kemps cave]]>
+            </line>
+            <line>
+              <![CDATA[89.Taj Cottage]]>
+            </line>
+            <line>
+              <![CDATA[90.Hill Bird Homestay]]>
+            </line>
+            <line>
+              <![CDATA[91.OYO Flagship 44245 Hotel Rainforest Thalayathimund]]>
+            </line>
+            <line>
+              <![CDATA[92.PHOENIX STAY Ooty]]>
+            </line>
+            <line>
+              <![CDATA[93.Skylarc inn]]>
+            </line>
+            <line>
+              <![CDATA[94.Hotel Maneck]]>
+            </line>
+            <line>
+              <![CDATA[95.Berry Hills Resort]]>
+            </line>
+            <line>
+              <![CDATA[96.MANGO HILL CENTRAL OOTY]]>
+            </line>
+            <line>
+              <![CDATA[97.Gem Park]]>
+            </line>
+            <line>
+              <![CDATA[98.Vermont Valley Cottages By NiveTsa]]>
+            </line>
+            <line>
+              <![CDATA[99.Anmols Impex Cottage]]>
+            </line>
+            <line>
+              <![CDATA[100.RN Holidays]]>
+            </line>
+            <line>
+              <![CDATA[The name of the testcase failed is: HOTELBOOKING]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hotelBooking -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.goibibo.tests.TS_002_Hotel_Booking@5f8e8a9d]" started-at="2022-03-08T16:42:46 IST" name="afterTest" finished-at="2022-03-08T16:42:47 IST" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.goibibo.tests.TS_002_Hotel_Booking -->
+      <class name="com.goibibo.tests.TS_003_Hotel_Details">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.goibibo.tests.TS_003_Hotel_Details@5745ca0e]" started-at="2022-03-08T16:24:47 IST" name="beforeTest" finished-at="2022-03-08T16:24:51 IST" duration-ms="3873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="hotelDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.goibibo.tests.TS_003_Hotel_Details@5745ca0e]" started-at="2022-03-08T16:35:57 IST" name="hotelDetails" data-provider="DataProvider" finished-at="2022-03-08T16:37:53 IST" duration-ms="116679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ooty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Mountain Trails]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case started: HOTELDETAILS]]>
+            </line>
+            <line>
+              <![CDATA[Existing rooms 1and Required rooms 1 are same.]]>
+            </line>
+            <line>
+              <![CDATA[Minus button at adults section is clicked 1 times]]>
+            </line>
+            <line>
+              <![CDATA[Existing rooms 0and Required rooms 0 are same.]]>
+            </line>
+            <line>
+              <![CDATA[The Total Number of Hotels are 80]]>
+            </line>
+            <line>
+              <![CDATA[Please find the Hotel names below:  ]]>
+            </line>
+            <line>
+              <![CDATA[1.AURORA LIGHT RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[2.Rainbow Cottage]]>
+            </line>
+            <line>
+              <![CDATA[3.Chettinad Avenue]]>
+            </line>
+            <line>
+              <![CDATA[4.Hotel Sapphire Paradise]]>
+            </line>
+            <line>
+              <![CDATA[5.Wild zest]]>
+            </line>
+            <line>
+              <![CDATA[6.Green Apple Residence]]>
+            </line>
+            <line>
+              <![CDATA[7.The Majestic Crown]]>
+            </line>
+            <line>
+              <![CDATA[8.Garden Manor]]>
+            </line>
+            <line>
+              <![CDATA[9.Hill Crest Metro]]>
+            </line>
+            <line>
+              <![CDATA[10.Sterling Ooty Elk Hill]]>
+            </line>
+            <line>
+              <![CDATA[11.Venus Holiday Home]]>
+            </line>
+            <line>
+              <![CDATA[12.Hotel Lakeview]]>
+            </line>
+            <line>
+              <![CDATA[13.Greenyards]]>
+            </line>
+            <line>
+              <![CDATA[14.FabHotel Sholas Residency I]]>
+            </line>
+            <line>
+              <![CDATA[15.OYO 13118 Twin Falls]]>
+            </line>
+            <line>
+              <![CDATA[16.Hotel Charring Cross]]>
+            </line>
+            <line>
+              <![CDATA[17.OYO 78034 New Star Cottages]]>
+            </line>
+            <line>
+              <![CDATA[18.Glen Park Inn]]>
+            </line>
+            <line>
+              <![CDATA[19.OYO 79915 SRJs Thaneesh Residency]]>
+            </line>
+            <line>
+              <![CDATA[20.Parkside Residency]]>
+            </line>
+            <line>
+              <![CDATA[21.The Monarch]]>
+            </line>
+            <line>
+              <![CDATA[22.The Green valley resorts]]>
+            </line>
+            <line>
+              <![CDATA[23.Beverly Villa]]>
+            </line>
+            <line>
+              <![CDATA[24.Oriental Grand]]>
+            </line>
+            <line>
+              <![CDATA[25.FabExpress Grand Castle Hill Resorts]]>
+            </line>
+            <line>
+              <![CDATA[26.Mountain Trails]]>
+            </line>
+            <line>
+              <![CDATA[27.Hotel Astoria Residency]]>
+            </line>
+            <line>
+              <![CDATA[28.Tulips valley view resorts]]>
+            </line>
+            <line>
+              <![CDATA[29.Rose Park Residency]]>
+            </line>
+            <line>
+              <![CDATA[30.Tulips Elkhill Resorts]]>
+            </line>
+            <line>
+              <![CDATA[31.Hotel Carnation]]>
+            </line>
+            <line>
+              <![CDATA[32.Zostel Ooty]]>
+            </line>
+            <line>
+              <![CDATA[33.YWCA Anandagiri Ooty]]>
+            </line>
+            <line>
+              <![CDATA[34.Fortune Retreats]]>
+            </line>
+            <line>
+              <![CDATA[35.Al-Woodlands Residency]]>
+            </line>
+            <line>
+              <![CDATA[36.Dew Drop Inn]]>
+            </line>
+            <line>
+              <![CDATA[37.OYO 78121 Red Rock]]>
+            </line>
+            <line>
+              <![CDATA[38.La Montana by TGI]]>
+            </line>
+            <line>
+              <![CDATA[39.Vinayaga Inn by Poppys]]>
+            </line>
+            <line>
+              <![CDATA[40.FabHotel Khems]]>
+            </line>
+            <line>
+              <![CDATA[41.Hotel Sapphire Grand]]>
+            </line>
+            <line>
+              <![CDATA[42.Hotel Fairstay]]>
+            </line>
+            <line>
+              <![CDATA[43.The Red House]]>
+            </line>
+            <line>
+              <![CDATA[44.A Ooty Honey Huts]]>
+            </line>
+            <line>
+              <![CDATA[45.Sabol Holiday Resorts]]>
+            </line>
+            <line>
+              <![CDATA[46.The Bowers Chalet]]>
+            </line>
+            <line>
+              <![CDATA[47.Hotel Welbeck Residency]]>
+            </line>
+            <line>
+              <![CDATA[48.OYO 4427 Hotel Gaylord]]>
+            </line>
+            <line>
+              <![CDATA[49.Sterling Ooty Fern Hill]]>
+            </line>
+            <line>
+              <![CDATA[50.Mount View Heritage Hotel]]>
+            </line>
+            <line>
+              <![CDATA[51.Silver Bett Resort]]>
+            </line>
+            <line>
+              <![CDATA[52.Delightz Inn]]>
+            </line>
+            <line>
+              <![CDATA[53.Green Leaves, The countryside Inn(8 kms from Ooty)]]>
+            </line>
+            <line>
+              <![CDATA[54.kumaran cottage]]>
+            </line>
+            <line>
+              <![CDATA[55.RK Homes Guest House]]>
+            </line>
+            <line>
+              <![CDATA[56.Hotel Alakapuri]]>
+            </line>
+            <line>
+              <![CDATA[57.FabHotel Sun Park Grand]]>
+            </line>
+            <line>
+              <![CDATA[58.Leopard Rock Wilderness Resort]]>
+            </line>
+            <line>
+              <![CDATA[59.DARSHAN HOTEL]]>
+            </line>
+            <line>
+              <![CDATA[60.Deccan Park]]>
+            </line>
+            <line>
+              <![CDATA[61.Hotel Meadows Residency]]>
+            </line>
+            <line>
+              <![CDATA[62.Hotel Tamilnadu, Ooty]]>
+            </line>
+            <line>
+              <![CDATA[63.Glyngarth Resort (10km Away from Ooty)]]>
+            </line>
+            <line>
+              <![CDATA[64.Vista Suites Kalatti]]>
+            </line>
+            <line>
+              <![CDATA[65.Accord HighLand]]>
+            </line>
+            <line>
+              <![CDATA[66.Raasinihas Paradise]]>
+            </line>
+            <line>
+              <![CDATA[67.Sinclairs Retreat Ooty]]>
+            </line>
+            <line>
+              <![CDATA[68.Motherland Residency]]>
+            </line>
+            <line>
+              <![CDATA[69.OYO 10950 Hotel Hills Palace]]>
+            </line>
+            <line>
+              <![CDATA[70.Western Valley Resorts]]>
+            </line>
+            <line>
+              <![CDATA[71.A2B Residency Ooty]]>
+            </line>
+            <line>
+              <![CDATA[72.Tuccil]]>
+            </line>
+            <line>
+              <![CDATA[73.Ooty Residency]]>
+            </line>
+            <line>
+              <![CDATA[74.DIO BEAUMOUNT]]>
+            </line>
+            <line>
+              <![CDATA[75.De Santosh Residency]]>
+            </line>
+            <line>
+              <![CDATA[76.OYO 35818 Twin Falls Residency]]>
+            </line>
+            <line>
+              <![CDATA[77.Golden Springs]]>
+            </line>
+            <line>
+              <![CDATA[78.Hotel Khems]]>
+            </line>
+            <line>
+              <![CDATA[79.Tiger Hill Homestay]]>
+            </line>
+            <line>
+              <![CDATA[80.La Blooms]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737664795.png'> <img src='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737664795.png' height='500' width='500'/></a> ]]>
+            </line>
+            <line>
+              <![CDATA[The name of the testcase passed is: HOTELDETAILS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hotelDetails -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.goibibo.tests.TS_003_Hotel_Details@5745ca0e]" started-at="2022-03-08T16:42:47 IST" name="afterTest" finished-at="2022-03-08T16:42:50 IST" duration-ms="2698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.goibibo.tests.TS_003_Hotel_Details -->
+      <class name="com.goibibo.tests.TS_004_Hotel_Filters">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.goibibo.tests.TS_004_Hotel_Filters@3cce5371]" started-at="2022-03-08T16:24:51 IST" name="beforeTest" finished-at="2022-03-08T16:24:55 IST" duration-ms="4266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="hotelFilters(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.goibibo.tests.TS_004_Hotel_Filters@3cce5371]" started-at="2022-03-08T16:37:53 IST" name="hotelFilters" data-provider="DataProvider" finished-at="2022-03-08T16:42:46 IST" duration-ms="292491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ooty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Mountain Trails]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Pay At Hotel Available]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[4.5]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case started: HOTELFILTERS]]>
+            </line>
+            <line>
+              <![CDATA[Existing rooms 1and Required rooms 1 are same.]]>
+            </line>
+            <line>
+              <![CDATA[Minus button at adults section is clicked 1 times]]>
+            </line>
+            <line>
+              <![CDATA[Existing rooms 0and Required rooms 0 are same.]]>
+            </line>
+            <line>
+              <![CDATA[The Total Number of Hotels are 40]]>
+            </line>
+            <line>
+              <![CDATA[Please find the Hotel names below:  ]]>
+            </line>
+            <line>
+              <![CDATA[1.AURORA LIGHT RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[2.Rainbow Cottage]]>
+            </line>
+            <line>
+              <![CDATA[3.Chettinad Avenue]]>
+            </line>
+            <line>
+              <![CDATA[4.Hotel Sapphire Paradise]]>
+            </line>
+            <line>
+              <![CDATA[5.Wild zest]]>
+            </line>
+            <line>
+              <![CDATA[6.Green Apple Residence]]>
+            </line>
+            <line>
+              <![CDATA[7.The Majestic Crown]]>
+            </line>
+            <line>
+              <![CDATA[8.Garden Manor]]>
+            </line>
+            <line>
+              <![CDATA[9.Hill Crest Metro]]>
+            </line>
+            <line>
+              <![CDATA[10.Sterling Ooty Elk Hill]]>
+            </line>
+            <line>
+              <![CDATA[11.Venus Holiday Home]]>
+            </line>
+            <line>
+              <![CDATA[12.Hotel Lakeview]]>
+            </line>
+            <line>
+              <![CDATA[13.Greenyards]]>
+            </line>
+            <line>
+              <![CDATA[14.FabHotel Sholas Residency I]]>
+            </line>
+            <line>
+              <![CDATA[15.OYO 13118 Twin Falls]]>
+            </line>
+            <line>
+              <![CDATA[16.Hotel Charring Cross]]>
+            </line>
+            <line>
+              <![CDATA[17.OYO 78034 New Star Cottages]]>
+            </line>
+            <line>
+              <![CDATA[18.Glen Park Inn]]>
+            </line>
+            <line>
+              <![CDATA[19.OYO 79915 SRJs Thaneesh Residency]]>
+            </line>
+            <line>
+              <![CDATA[20.Parkside Residency]]>
+            </line>
+            <line>
+              <![CDATA[21.The Monarch]]>
+            </line>
+            <line>
+              <![CDATA[22.The Green valley resorts]]>
+            </line>
+            <line>
+              <![CDATA[23.Beverly Villa]]>
+            </line>
+            <line>
+              <![CDATA[24.Oriental Grand]]>
+            </line>
+            <line>
+              <![CDATA[25.FabExpress Grand Castle Hill Resorts]]>
+            </line>
+            <line>
+              <![CDATA[26.Mountain Trails]]>
+            </line>
+            <line>
+              <![CDATA[27.Hotel Astoria Residency]]>
+            </line>
+            <line>
+              <![CDATA[28.Tulips valley view resorts]]>
+            </line>
+            <line>
+              <![CDATA[29.Rose Park Residency]]>
+            </line>
+            <line>
+              <![CDATA[30.Tulips Elkhill Resorts]]>
+            </line>
+            <line>
+              <![CDATA[31.Hotel Carnation]]>
+            </line>
+            <line>
+              <![CDATA[32.Zostel Ooty]]>
+            </line>
+            <line>
+              <![CDATA[33.YWCA Anandagiri Ooty]]>
+            </line>
+            <line>
+              <![CDATA[34.Fortune Retreats]]>
+            </line>
+            <line>
+              <![CDATA[35.Al-Woodlands Residency]]>
+            </line>
+            <line>
+              <![CDATA[36.Dew Drop Inn]]>
+            </line>
+            <line>
+              <![CDATA[37.OYO 78121 Red Rock]]>
+            </line>
+            <line>
+              <![CDATA[38.La Montana by TGI]]>
+            </line>
+            <line>
+              <![CDATA[39.Vinayaga Inn by Poppys]]>
+            </line>
+            <line>
+              <![CDATA[40.FabHotel Khems]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737966464.png'> <img src='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737966464.png' height='500' width='500'/></a> ]]>
+            </line>
+            <line>
+              <![CDATA[The name of the testcase passed is: HOTELFILTERS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hotelFilters -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.goibibo.tests.TS_004_Hotel_Filters@3cce5371]" started-at="2022-03-08T16:42:50 IST" name="afterTest" finished-at="2022-03-08T16:42:53 IST" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.goibibo.tests.TS_004_Hotel_Filters -->
+      <class name="com.goibibo.tests.TS_001_Hotel_Search">
+        <test-method is-config="true" signature="setupApplication()[pri:0, instance:com.goibibo.tests.TS_001_Hotel_Search@2ab4bc72]" started-at="2022-03-08T16:24:14 IST" name="setupApplication" finished-at="2022-03-08T16:24:23 IST" duration-ms="8645" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===== Browser Session Started =====]]>
+            </line>
+            <line>
+              <![CDATA[=====Application Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupApplication -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.goibibo.tests.TS_001_Hotel_Search@2ab4bc72]" started-at="2022-03-08T16:24:23 IST" name="beforeTest" finished-at="2022-03-08T16:24:42 IST" duration-ms="18876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="hotelSearch(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.goibibo.tests.TS_001_Hotel_Search@2ab4bc72]" started-at="2022-03-08T16:24:56 IST" name="hotelSearch" data-provider="DataProvider" finished-at="2022-03-08T16:32:22 IST" duration-ms="445507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ooty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case started: HOTELSEARCH]]>
+            </line>
+            <line>
+              <![CDATA[Existing rooms 1and Required rooms 1 are same.]]>
+            </line>
+            <line>
+              <![CDATA[Minus button at adults section is clicked 1 times]]>
+            </line>
+            <line>
+              <![CDATA[Existing rooms 0and Required rooms 0 are same.]]>
+            </line>
+            <line>
+              <![CDATA[The Total Number of Hotels are 367]]>
+            </line>
+            <line>
+              <![CDATA[Please find the Hotel names below:  ]]>
+            </line>
+            <line>
+              <![CDATA[1.AURORA LIGHT RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[2.Rainbow Cottage]]>
+            </line>
+            <line>
+              <![CDATA[3.Chettinad Avenue]]>
+            </line>
+            <line>
+              <![CDATA[4.Wild zest]]>
+            </line>
+            <line>
+              <![CDATA[5.The Majestic Crown]]>
+            </line>
+            <line>
+              <![CDATA[6.Garden Manor]]>
+            </line>
+            <line>
+              <![CDATA[7.Hill Crest Metro]]>
+            </line>
+            <line>
+              <![CDATA[8.Green Apple Residence]]>
+            </line>
+            <line>
+              <![CDATA[9.Hotel Lakeview]]>
+            </line>
+            <line>
+              <![CDATA[10.Greenyards]]>
+            </line>
+            <line>
+              <![CDATA[11.OYO 78034 New Star Cottages]]>
+            </line>
+            <line>
+              <![CDATA[12.Glen Park Inn]]>
+            </line>
+            <line>
+              <![CDATA[13.OYO 79915 SRJs Thaneesh Residency]]>
+            </line>
+            <line>
+              <![CDATA[14.Parkside Residency]]>
+            </line>
+            <line>
+              <![CDATA[15.The Monarch]]>
+            </line>
+            <line>
+              <![CDATA[16.The Green valley resorts]]>
+            </line>
+            <line>
+              <![CDATA[17.Sterling Ooty Elk Hill]]>
+            </line>
+            <line>
+              <![CDATA[18.Beverly Villa]]>
+            </line>
+            <line>
+              <![CDATA[19.Oriental Grand]]>
+            </line>
+            <line>
+              <![CDATA[20.FabExpress Grand Castle Hill Resorts]]>
+            </line>
+            <line>
+              <![CDATA[21.Mountain Trails]]>
+            </line>
+            <line>
+              <![CDATA[22.Hotel Astoria Residency]]>
+            </line>
+            <line>
+              <![CDATA[23.Tulips valley view resorts]]>
+            </line>
+            <line>
+              <![CDATA[24.Rose Park Residency]]>
+            </line>
+            <line>
+              <![CDATA[25.Tulips Elkhill Resorts]]>
+            </line>
+            <line>
+              <![CDATA[26.Hotel Carnation]]>
+            </line>
+            <line>
+              <![CDATA[27.Zostel Ooty]]>
+            </line>
+            <line>
+              <![CDATA[28.YWCA Anandagiri Ooty]]>
+            </line>
+            <line>
+              <![CDATA[29.Fortune Retreats]]>
+            </line>
+            <line>
+              <![CDATA[30.Al-Woodlands Residency]]>
+            </line>
+            <line>
+              <![CDATA[31.La Montana by TGI]]>
+            </line>
+            <line>
+              <![CDATA[32.Dew Drop Inn]]>
+            </line>
+            <line>
+              <![CDATA[33.OYO 78121 Red Rock]]>
+            </line>
+            <line>
+              <![CDATA[34.Vinayaga Inn by Poppys]]>
+            </line>
+            <line>
+              <![CDATA[35.FabHotel Khems]]>
+            </line>
+            <line>
+              <![CDATA[36.Hotel Sapphire Grand]]>
+            </line>
+            <line>
+              <![CDATA[37.Hotel Fairstay]]>
+            </line>
+            <line>
+              <![CDATA[38.The Red House]]>
+            </line>
+            <line>
+              <![CDATA[39.A Ooty Honey Huts]]>
+            </line>
+            <line>
+              <![CDATA[40.Sabol Holiday Resorts]]>
+            </line>
+            <line>
+              <![CDATA[41.The Bowers Chalet]]>
+            </line>
+            <line>
+              <![CDATA[42.Hotel Welbeck Residency]]>
+            </line>
+            <line>
+              <![CDATA[43.OYO 4427 Hotel Gaylord]]>
+            </line>
+            <line>
+              <![CDATA[44.OYO 13118 Twin Falls]]>
+            </line>
+            <line>
+              <![CDATA[45.Sterling Ooty Fern Hill]]>
+            </line>
+            <line>
+              <![CDATA[46.Mount View Heritage Hotel]]>
+            </line>
+            <line>
+              <![CDATA[47.Silver Bett Resort]]>
+            </line>
+            <line>
+              <![CDATA[48.Delightz Inn]]>
+            </line>
+            <line>
+              <![CDATA[49.Green Leaves, The countryside Inn(8 kms from Ooty)]]>
+            </line>
+            <line>
+              <![CDATA[50.kumaran cottage]]>
+            </line>
+            <line>
+              <![CDATA[51.RK Homes Guest House]]>
+            </line>
+            <line>
+              <![CDATA[52.Hotel Alakapuri]]>
+            </line>
+            <line>
+              <![CDATA[53.FabHotel Sun Park Grand]]>
+            </line>
+            <line>
+              <![CDATA[54.Leopard Rock Wilderness Resort]]>
+            </line>
+            <line>
+              <![CDATA[55.DARSHAN HOTEL]]>
+            </line>
+            <line>
+              <![CDATA[56.Deccan Park]]>
+            </line>
+            <line>
+              <![CDATA[57.Hotel Meadows Residency]]>
+            </line>
+            <line>
+              <![CDATA[58.Hotel Tamilnadu, Ooty]]>
+            </line>
+            <line>
+              <![CDATA[59.Glyngarth Resort (10km Away from Ooty)]]>
+            </line>
+            <line>
+              <![CDATA[60.Vista Suites Kalatti]]>
+            </line>
+            <line>
+              <![CDATA[61.Accord HighLand]]>
+            </line>
+            <line>
+              <![CDATA[62.Raasinihas Paradise]]>
+            </line>
+            <line>
+              <![CDATA[63.Sinclairs Retreat Ooty]]>
+            </line>
+            <line>
+              <![CDATA[64.Motherland Residency]]>
+            </line>
+            <line>
+              <![CDATA[65.OYO 10950 Hotel Hills Palace]]>
+            </line>
+            <line>
+              <![CDATA[66.Western Valley Resorts]]>
+            </line>
+            <line>
+              <![CDATA[67.A2B Residency Ooty]]>
+            </line>
+            <line>
+              <![CDATA[68.Tuccil]]>
+            </line>
+            <line>
+              <![CDATA[69.Ooty Residency]]>
+            </line>
+            <line>
+              <![CDATA[70.DIO BEAUMOUNT]]>
+            </line>
+            <line>
+              <![CDATA[71.De Santosh Residency]]>
+            </line>
+            <line>
+              <![CDATA[72.OYO 35818 Twin Falls Residency]]>
+            </line>
+            <line>
+              <![CDATA[73.Golden Springs]]>
+            </line>
+            <line>
+              <![CDATA[74.Hotel Khems]]>
+            </line>
+            <line>
+              <![CDATA[75.Tiger Hill Homestay]]>
+            </line>
+            <line>
+              <![CDATA[76.La Blooms]]>
+            </line>
+            <line>
+              <![CDATA[77.OYO 7665 Home Stay Fable Stay]]>
+            </line>
+            <line>
+              <![CDATA[78.Palve sugavasam]]>
+            </line>
+            <line>
+              <![CDATA[79.The Byke Sunshine Grand]]>
+            </line>
+            <line>
+              <![CDATA[80.Hotel Preethi Classic Towers]]>
+            </line>
+            <line>
+              <![CDATA[81.I- India]]>
+            </line>
+            <line>
+              <![CDATA[82.SV RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[83.Rock Ooty]]>
+            </line>
+            <line>
+              <![CDATA[84.Kemps cave]]>
+            </line>
+            <line>
+              <![CDATA[85.Taj Cottage]]>
+            </line>
+            <line>
+              <![CDATA[86.Hill Bird Homestay]]>
+            </line>
+            <line>
+              <![CDATA[87.OYO Flagship 44245 Hotel Rainforest Thalayathimund]]>
+            </line>
+            <line>
+              <![CDATA[88.PHOENIX STAY Ooty]]>
+            </line>
+            <line>
+              <![CDATA[89.Skylarc inn]]>
+            </line>
+            <line>
+              <![CDATA[90.Hotel Maneck]]>
+            </line>
+            <line>
+              <![CDATA[91.Berry Hills Resort]]>
+            </line>
+            <line>
+              <![CDATA[92.MANGO HILL CENTRAL OOTY]]>
+            </line>
+            <line>
+              <![CDATA[93.Gem Park]]>
+            </line>
+            <line>
+              <![CDATA[94.Vermont Valley Cottages By NiveTsa]]>
+            </line>
+            <line>
+              <![CDATA[95.Anmols Impex Cottage]]>
+            </line>
+            <line>
+              <![CDATA[96.RN Holidays]]>
+            </line>
+            <line>
+              <![CDATA[97.Capital O 13231 Hotel Sapphire Garden View]]>
+            </line>
+            <line>
+              <![CDATA[98.Treebo Trend Atithi Bhavan]]>
+            </line>
+            <line>
+              <![CDATA[99.Sugam Cottages]]>
+            </line>
+            <line>
+              <![CDATA[100.MALAIYUR RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[101.EDEN PARADISE]]>
+            </line>
+            <line>
+              <![CDATA[102.Ganga's Sri Balaji Cottage]]>
+            </line>
+            <line>
+              <![CDATA[103.Hotel Sri Balaji]]>
+            </line>
+            <line>
+              <![CDATA[104.Welcomheritage Ferrnhills Royale Palace]]>
+            </line>
+            <line>
+              <![CDATA[105.Woodstock]]>
+            </line>
+            <line>
+              <![CDATA[106.The Clubhouse Ooty]]>
+            </line>
+            <line>
+              <![CDATA[107.Lakefield Bunglow]]>
+            </line>
+            <line>
+              <![CDATA[108.Hotel Mount n Mist]]>
+            </line>
+            <line>
+              <![CDATA[109.Hotel KURINJI RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[110.Aventura Fernhill]]>
+            </line>
+            <line>
+              <![CDATA[111.Golden Larch Comfort]]>
+            </line>
+            <line>
+              <![CDATA[112.Hotel Silver Oak]]>
+            </line>
+            <line>
+              <![CDATA[113.Colonels Inn]]>
+            </line>
+            <line>
+              <![CDATA[114.Heaven Hill View by Vista Rooms]]>
+            </line>
+            <line>
+              <![CDATA[115.Two Seas Residence]]>
+            </line>
+            <line>
+              <![CDATA[116.Aakash Rooms and cottages]]>
+            </line>
+            <line>
+              <![CDATA[117.Mountain Retreat - A Hill Country Resort]]>
+            </line>
+            <line>
+              <![CDATA[118.Hotel Venus]]>
+            </line>
+            <line>
+              <![CDATA[119.Hotel Landmark]]>
+            </line>
+            <line>
+              <![CDATA[120.Hotel Maneck Residency]]>
+            </line>
+            <line>
+              <![CDATA[121.Seven Hill Guest House]]>
+            </line>
+            <line>
+              <![CDATA[122.OYO 77690 Hillwood Cottage]]>
+            </line>
+            <line>
+              <![CDATA[123.Adarsh International]]>
+            </line>
+            <line>
+              <![CDATA[124.The Abode]]>
+            </line>
+            <line>
+              <![CDATA[125.Pratham International]]>
+            </line>
+            <line>
+              <![CDATA[126.Hotel Nahar Nilgiris]]>
+            </line>
+            <line>
+              <![CDATA[127.Kluney Manor]]>
+            </line>
+            <line>
+              <![CDATA[128.Savoy - IHCL SeleQtions, Ooty]]>
+            </line>
+            <line>
+              <![CDATA[129.SB Cottage and Homestay]]>
+            </line>
+            <line>
+              <![CDATA[130.Mountside Cottage]]>
+            </line>
+            <line>
+              <![CDATA[131.The Lovedale Garden Residency]]>
+            </line>
+            <line>
+              <![CDATA[132.FabHotel Vinu Valley Resorts]]>
+            </line>
+            <line>
+              <![CDATA[133.Ponmari Residency]]>
+            </line>
+            <line>
+              <![CDATA[134.Hotel Sun Park]]>
+            </line>
+            <line>
+              <![CDATA[135.Hotel Serenity Inn]]>
+            </line>
+            <line>
+              <![CDATA[136.S.R Cottage Ooty]]>
+            </line>
+            <line>
+              <![CDATA[137.Sri Sai Residency]]>
+            </line>
+            <line>
+              <![CDATA[138.Margic Star cottage]]>
+            </line>
+            <line>
+              <![CDATA[139.Ever Fresh Cottages]]>
+            </line>
+            <line>
+              <![CDATA[140.British Cliff Club Resort]]>
+            </line>
+            <line>
+              <![CDATA[141.Treebo Trend Sky Dale Inn & Suites]]>
+            </line>
+            <line>
+              <![CDATA[142.EZABELLA LUXURY SERVICE VILLA, Ooty]]>
+            </line>
+            <line>
+              <![CDATA[143.Hotel PENTOZ]]>
+            </line>
+            <line>
+              <![CDATA[144.Vista Suites Doddabetta]]>
+            </line>
+            <line>
+              <![CDATA[145.Collection O 8855 Orchid Inn]]>
+            </line>
+            <line>
+              <![CDATA[146.Woodberry Residency]]>
+            </line>
+            <line>
+              <![CDATA[147.Treebo Trend Light House]]>
+            </line>
+            <line>
+              <![CDATA[148.Hotel Preethi Palace]]>
+            </line>
+            <line>
+              <![CDATA[149.Haven Cottage Ooty]]>
+            </line>
+            <line>
+              <![CDATA[150.Devi Tourist Inn]]>
+            </line>
+            <line>
+              <![CDATA[151.maliekkalresidency]]>
+            </line>
+            <line>
+              <![CDATA[152.The Berg by Vista Rooms]]>
+            </line>
+            <line>
+              <![CDATA[153.Hotel Sanjay]]>
+            </line>
+            <line>
+              <![CDATA[154.Golden Larch Residency]]>
+            </line>
+            <line>
+              <![CDATA[155.Albisville Hilltop Mansion]]>
+            </line>
+            <line>
+              <![CDATA[156.The Venus Residency]]>
+            </line>
+            <line>
+              <![CDATA[157.Exclusive Villa near Rose Garden]]>
+            </line>
+            <line>
+              <![CDATA[158.Ishaan Holidays]]>
+            </line>
+            <line>
+              <![CDATA[159.Zion]]>
+            </line>
+            <line>
+              <![CDATA[160.RANS ROYAL CLUB]]>
+            </line>
+            <line>
+              <![CDATA[161.The Mystique Inn]]>
+            </line>
+            <line>
+              <![CDATA[162.Mystique Ville]]>
+            </line>
+            <line>
+              <![CDATA[163.Nest Inn Nature]]>
+            </line>
+            <line>
+              <![CDATA[164.HV 3-3 BHK Villa]]>
+            </line>
+            <line>
+              <![CDATA[165.MERAKI MAISON]]>
+            </line>
+            <line>
+              <![CDATA[166.FabEscape St. Clouds]]>
+            </line>
+            <line>
+              <![CDATA[167.The Baron]]>
+            </line>
+            <line>
+              <![CDATA[168.Neo Nirmal Residency]]>
+            </line>
+            <line>
+              <![CDATA[169.Spacious Balcony Premium Room in Heart of Ooty]]>
+            </line>
+            <line>
+              <![CDATA[170.Hotel Jaysanthi]]>
+            </line>
+            <line>
+              <![CDATA[171.Kings View Cottage]]>
+            </line>
+            <line>
+              <![CDATA[172.Primrose Cottage]]>
+            </line>
+            <line>
+              <![CDATA[173.Southmere Homestay]]>
+            </line>
+            <line>
+              <![CDATA[174.OYO 77682 Mohans Cottage]]>
+            </line>
+            <line>
+              <![CDATA[175.Princy Cottage Near Boat House]]>
+            </line>
+            <line>
+              <![CDATA[176.EADENZ COTTAGE]]>
+            </line>
+            <line>
+              <![CDATA[177.Seven Endue Grand]]>
+            </line>
+            <line>
+              <![CDATA[178.SS Holiday Inn]]>
+            </line>
+            <line>
+              <![CDATA[179.Golfdale Holiday Resort]]>
+            </line>
+            <line>
+              <![CDATA[180.Collection O 83248 Silent Valley]]>
+            </line>
+            <line>
+              <![CDATA[181.Wildlife Bungalow, rooms or entire house]]>
+            </line>
+            <line>
+              <![CDATA[182.Divi Inn cottage]]>
+            </line>
+            <line>
+              <![CDATA[183.DrizzleDrop Inn]]>
+            </line>
+            <line>
+              <![CDATA[184.PSR Residency]]>
+            </line>
+            <line>
+              <![CDATA[185.OYO Flagship 49925 Divi Heritage Inn]]>
+            </line>
+            <line>
+              <![CDATA[186.DE AMOR]]>
+            </line>
+            <line>
+              <![CDATA[187.Honey huts Budget stay]]>
+            </line>
+            <line>
+              <![CDATA[188.Blue hills homes]]>
+            </line>
+            <line>
+              <![CDATA[189.Sagar Holiday Inn]]>
+            </line>
+            <line>
+              <![CDATA[190.Aishwariya Cottages]]>
+            </line>
+            <line>
+              <![CDATA[191.MMR HOLIDAY INN]]>
+            </line>
+            <line>
+              <![CDATA[192.West Hill Daffodils Inn]]>
+            </line>
+            <line>
+              <![CDATA[193.Coonoor Homestay]]>
+            </line>
+            <line>
+              <![CDATA[194.Sivarajaa Residency]]>
+            </line>
+            <line>
+              <![CDATA[195.CASA FELICIA- Adding Happy Moments to Your Diary]]>
+            </line>
+            <line>
+              <![CDATA[196.Av villa belmont]]>
+            </line>
+            <line>
+              <![CDATA[197.The first corner kallatty ooty]]>
+            </line>
+            <line>
+              <![CDATA[198.Nakshatra Grand]]>
+            </line>
+            <line>
+              <![CDATA[199.Eadenz valley view cottages]]>
+            </line>
+            <line>
+              <![CDATA[200.SJM Residency]]>
+            </line>
+            <line>
+              <![CDATA[201.R J INN]]>
+            </line>
+            <line>
+              <![CDATA[202.Pebrock Heritage Inn]]>
+            </line>
+            <line>
+              <![CDATA[203.J R Mist Valley]]>
+            </line>
+            <line>
+              <![CDATA[204.Daffodil Cottages]]>
+            </line>
+            <line>
+              <![CDATA[205.The JLG cottages]]>
+            </line>
+            <line>
+              <![CDATA[206.Radiant cottage]]>
+            </line>
+            <line>
+              <![CDATA[207.PS Cottage Arni house]]>
+            </line>
+            <line>
+              <![CDATA[208.Vista Suites by Nivetsa, Ooty]]>
+            </line>
+            <line>
+              <![CDATA[209.Avocado holidays]]>
+            </line>
+            <line>
+              <![CDATA[210.Westwood bungalow]]>
+            </line>
+            <line>
+              <![CDATA[211.GanGas 3BHK Cottage]]>
+            </line>
+            <line>
+              <![CDATA[212.Honey hut]]>
+            </line>
+            <line>
+              <![CDATA[213.RM Cottage Ooty]]>
+            </line>
+            <line>
+              <![CDATA[214.Green hills Kallati]]>
+            </line>
+            <line>
+              <![CDATA[215.Nahar's Residency Hotel]]>
+            </line>
+            <line>
+              <![CDATA[216.Tiger Belmonte Cottage]]>
+            </line>
+            <line>
+              <![CDATA[217.S.R RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[218.Eden inn Ooty]]>
+            </line>
+            <line>
+              <![CDATA[219.Misty Green villa]]>
+            </line>
+            <line>
+              <![CDATA[220.Bairava Cottage]]>
+            </line>
+            <line>
+              <![CDATA[221.The Anmols cottage]]>
+            </line>
+            <line>
+              <![CDATA[222.as residency]]>
+            </line>
+            <line>
+              <![CDATA[223.Adrika's Maple View Resort]]>
+            </line>
+            <line>
+              <![CDATA[224.FabHotel Greenwood Resort]]>
+            </line>
+            <line>
+              <![CDATA[225.GV cottages Finger post]]>
+            </line>
+            <line>
+              <![CDATA[226.RAM LAKSHMI COTTAGE]]>
+            </line>
+            <line>
+              <![CDATA[227.White house cottage]]>
+            </line>
+            <line>
+              <![CDATA[228.Kumaran homestay]]>
+            </line>
+            <line>
+              <![CDATA[229.Pine Forest View Residency]]>
+            </line>
+            <line>
+              <![CDATA[230.Seven Endue Cottages]]>
+            </line>
+            <line>
+              <![CDATA[231.Kiara Cottage]]>
+            </line>
+            <line>
+              <![CDATA[232.The B Tree Resorts]]>
+            </line>
+            <line>
+              <![CDATA[233.Mohan's Villa]]>
+            </line>
+            <line>
+              <![CDATA[234.Sanctuary Boutique Hotel]]>
+            </line>
+            <line>
+              <![CDATA[235.GK Homestay]]>
+            </line>
+            <line>
+              <![CDATA[236.Castle Bungalow]]>
+            </line>
+            <line>
+              <![CDATA[237.Valley homes]]>
+            </line>
+            <line>
+              <![CDATA[238.Hotel Orchid Inn]]>
+            </line>
+            <line>
+              <![CDATA[239.Vels Court Inn]]>
+            </line>
+            <line>
+              <![CDATA[240.Lourds Ville Residency]]>
+            </line>
+            <line>
+              <![CDATA[241.Vasantham Cottage]]>
+            </line>
+            <line>
+              <![CDATA[242.Fitness De Royale Organic County]]>
+            </line>
+            <line>
+              <![CDATA[243.Ooty Budget stayz]]>
+            </line>
+            <line>
+              <![CDATA[244.SARAH RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[245.VASISTA'S Athithi bhavan]]>
+            </line>
+            <line>
+              <![CDATA[246.Snowdrops Ooty]]>
+            </line>
+            <line>
+              <![CDATA[247.Youth Hostel - Ooty]]>
+            </line>
+            <line>
+              <![CDATA[248.Blue Mountain Villa]]>
+            </line>
+            <line>
+              <![CDATA[249.Dee First Corner]]>
+            </line>
+            <line>
+              <![CDATA[250.GOLDEN RESORTS]]>
+            </line>
+            <line>
+              <![CDATA[251.Lalana Residency]]>
+            </line>
+            <line>
+              <![CDATA[252.Hill Inn Homestay]]>
+            </line>
+            <line>
+              <![CDATA[253.Veega Pearls Resorts]]>
+            </line>
+            <line>
+              <![CDATA[254.VASANTHAM PALACE]]>
+            </line>
+            <line>
+              <![CDATA[255.Aishwariya 3-BHK Cottage]]>
+            </line>
+            <line>
+              <![CDATA[256.Sherlock Homes]]>
+            </line>
+            <line>
+              <![CDATA[257.SRS Cottage]]>
+            </line>
+            <line>
+              <![CDATA[258.Train View Cottage]]>
+            </line>
+            <line>
+              <![CDATA[259.Glen View homestay]]>
+            </line>
+            <line>
+              <![CDATA[260.Yantra Leisures]]>
+            </line>
+            <line>
+              <![CDATA[261.Destiny The Farm Resort]]>
+            </line>
+            <line>
+              <![CDATA[262.Orion Cottage]]>
+            </line>
+            <line>
+              <![CDATA[263.Greenary inn]]>
+            </line>
+            <line>
+              <![CDATA[264.CUCKOO KUDIL HOME STAY]]>
+            </line>
+            <line>
+              <![CDATA[265.Sierra Vale]]>
+            </line>
+            <line>
+              <![CDATA[266.Hotel Lakshmi Cottage]]>
+            </line>
+            <line>
+              <![CDATA[267.Holiday Home near Ooty Lake]]>
+            </line>
+            <line>
+              <![CDATA[268.Mayberry]]>
+            </line>
+            <line>
+              <![CDATA[269.Hill View Dream Annex]]>
+            </line>
+            <line>
+              <![CDATA[270.Bellevue Homestay]]>
+            </line>
+            <line>
+              <![CDATA[271.Ooty Mas Cottage]]>
+            </line>
+            <line>
+              <![CDATA[272.Bellmount]]>
+            </line>
+            <line>
+              <![CDATA[273.Strawberry Cottage]]>
+            </line>
+            <line>
+              <![CDATA[274.Praba rooms and cottages]]>
+            </line>
+            <line>
+              <![CDATA[275.Saibala Residency]]>
+            </line>
+            <line>
+              <![CDATA[276.Sriram garden cottage]]>
+            </line>
+            <line>
+              <![CDATA[277.The Yellow leaf Cottages]]>
+            </line>
+            <line>
+              <![CDATA[278.SMT Homes]]>
+            </line>
+            <line>
+              <![CDATA[279.Royal Residency]]>
+            </line>
+            <line>
+              <![CDATA[280.Lovely Cottage]]>
+            </line>
+            <line>
+              <![CDATA[281.Bliss belmonte]]>
+            </line>
+            <line>
+              <![CDATA[282.Homely Cottages]]>
+            </line>
+            <line>
+              <![CDATA[283.Ranch Villa Ooty]]>
+            </line>
+            <line>
+              <![CDATA[284.Belmonte cottage]]>
+            </line>
+            <line>
+              <![CDATA[285.Cuckoo Nest Ooty]]>
+            </line>
+            <line>
+              <![CDATA[286.Paradise villa]]>
+            </line>
+            <line>
+              <![CDATA[287.Shafis Green Land]]>
+            </line>
+            <line>
+              <![CDATA[288.Abi Suvi Homestay]]>
+            </line>
+            <line>
+              <![CDATA[289.KS Cottage]]>
+            </line>
+            <line>
+              <![CDATA[290.The Wonder Hill]]>
+            </line>
+            <line>
+              <![CDATA[291.Top hill guest house]]>
+            </line>
+            <line>
+              <![CDATA[292.Gangothri]]>
+            </line>
+            <line>
+              <![CDATA[293.Dew cottages]]>
+            </line>
+            <line>
+              <![CDATA[294.Mayan Resorts]]>
+            </line>
+            <line>
+              <![CDATA[295.Club House Cottage I]]>
+            </line>
+            <line>
+              <![CDATA[296.accsys Impex Rooms]]>
+            </line>
+            <line>
+              <![CDATA[297.Rohith & Vijay Guest house]]>
+            </line>
+            <line>
+              <![CDATA[298.Ajay Residency]]>
+            </line>
+            <line>
+              <![CDATA[299.Kemps Camp]]>
+            </line>
+            <line>
+              <![CDATA[300.AISHWARIYAA GARDENS]]>
+            </line>
+            <line>
+              <![CDATA[301.TG Hills cottage]]>
+            </line>
+            <line>
+              <![CDATA[302.AS Stay Residency]]>
+            </line>
+            <line>
+              <![CDATA[303.Hills Cottages(1)]]>
+            </line>
+            <line>
+              <![CDATA[304.Travel Stay Residence]]>
+            </line>
+            <line>
+              <![CDATA[305.BM Cottage]]>
+            </line>
+            <line>
+              <![CDATA[306.Kurunji Residency]]>
+            </line>
+            <line>
+              <![CDATA[307.K R Cottage]]>
+            </line>
+            <line>
+              <![CDATA[308.Yaseen Cottages]]>
+            </line>
+            <line>
+              <![CDATA[309.NEELIMALAI RESIDENCY]]>
+            </line>
+            <line>
+              <![CDATA[310.Drop Zone]]>
+            </line>
+            <line>
+              <![CDATA[311.TGT homes]]>
+            </line>
+            <line>
+              <![CDATA[312.GV residency]]>
+            </line>
+            <line>
+              <![CDATA[313.Pebrock cottage]]>
+            </line>
+            <line>
+              <![CDATA[314.S S Cottage]]>
+            </line>
+            <line>
+              <![CDATA[315.The Imperial royal stay]]>
+            </line>
+            <line>
+              <![CDATA[316.Sri Sai Cottage (Standard Room)]]>
+            </line>
+            <line>
+              <![CDATA[317.Woody's Misty home]]>
+            </line>
+            <line>
+              <![CDATA[318.Minis cottage]]>
+            </line>
+            <line>
+              <![CDATA[319.Eadenz rooms and cottage]]>
+            </line>
+            <line>
+              <![CDATA[320.Weston Holiday Inn]]>
+            </line>
+            <line>
+              <![CDATA[321.Golden park]]>
+            </line>
+            <line>
+              <![CDATA[322.The Smilestone]]>
+            </line>
+            <line>
+              <![CDATA[323.Maruthi Sunrise Cottage]]>
+            </line>
+            <line>
+              <![CDATA[324.The coral Yloo]]>
+            </line>
+            <line>
+              <![CDATA[325.OOTY Abisuvi Home Stay]]>
+            </line>
+            <line>
+              <![CDATA[326.Happy Homestay]]>
+            </line>
+            <line>
+              <![CDATA[327.Pine view stay]]>
+            </line>
+            <line>
+              <![CDATA[328.Coral bells]]>
+            </line>
+            <line>
+              <![CDATA[329.Marryland cottage]]>
+            </line>
+            <line>
+              <![CDATA[330.White Crystal Home]]>
+            </line>
+            <line>
+              <![CDATA[331.Tiger hill homestay]]>
+            </line>
+            <line>
+              <![CDATA[332.K P Cottage]]>
+            </line>
+            <line>
+              <![CDATA[333.The madhuvanna cottage]]>
+            </line>
+            <line>
+              <![CDATA[334.Silent wild Cottage]]>
+            </line>
+            <line>
+              <![CDATA[335.Stone hill Cottage]]>
+            </line>
+            <line>
+              <![CDATA[336.HILLTOP HOME STAY]]>
+            </line>
+            <line>
+              <![CDATA[337.Aura Cottage (Deluxe Room)]]>
+            </line>
+            <line>
+              <![CDATA[338.Gopi's Residency A Comfort stay]]>
+            </line>
+            <line>
+              <![CDATA[339.Osprey Cottage]]>
+            </line>
+            <line>
+              <![CDATA[340.Belmonte 3 bedroom villa]]>
+            </line>
+            <line>
+              <![CDATA[341.Hotel Gangothri Sunrise]]>
+            </line>
+            <line>
+              <![CDATA[342.Royal Heritage]]>
+            </line>
+            <line>
+              <![CDATA[343.Club House Cottage - Rooms (4 Bedded Room)]]>
+            </line>
+            <line>
+              <![CDATA[344.Vermount Resorts]]>
+            </line>
+            <line>
+              <![CDATA[345.Linga Villa]]>
+            </line>
+            <line>
+              <![CDATA[346.Swiya Holidays]]>
+            </line>
+            <line>
+              <![CDATA[347.The Black Magic Cottage]]>
+            </line>
+            <line>
+              <![CDATA[348.Collection O 24541 Ooty Highway Hotel]]>
+            </line>
+            <line>
+              <![CDATA[349.OYO 22786 The Nest]]>
+            </line>
+            <line>
+              <![CDATA[350.Collection O 14241 The Greenery - Holiday Inn]]>
+            </line>
+            <line>
+              <![CDATA[351.MANGO HILL OOTY]]>
+            </line>
+            <line>
+              <![CDATA[352.Space 4 Resorts]]>
+            </line>
+            <line>
+              <![CDATA[353.ONELOVEDALE Blusalz HOMES]]>
+            </line>
+            <line>
+              <![CDATA[354.Pearls Resorts]]>
+            </line>
+            <line>
+              <![CDATA[355.BS Dreams]]>
+            </line>
+            <line>
+              <![CDATA[356.Woodpeckers's Nest]]>
+            </line>
+            <line>
+              <![CDATA[357.Toda Room By Smyrna]]>
+            </line>
+            <line>
+              <![CDATA[358.Blue Room By Symrna]]>
+            </line>
+            <line>
+              <![CDATA[359.Chestnut By Smyrna]]>
+            </line>
+            <line>
+              <![CDATA[360.Magic Mist Resort]]>
+            </line>
+            <line>
+              <![CDATA[361.New Summit Villa Ooty]]>
+            </line>
+            <line>
+              <![CDATA[362.ONELOVEDALE Blusalz HOMES]]>
+            </line>
+            <line>
+              <![CDATA[363.HAPPYSTAY]]>
+            </line>
+            <line>
+              <![CDATA[364.Ooty Dormitories]]>
+            </line>
+            <line>
+              <![CDATA[365.OYO 80097 Shiva Shanthi Inn]]>
+            </line>
+            <line>
+              <![CDATA[366.The GV Residency]]>
+            </line>
+            <line>
+              <![CDATA[367.GK Villa]]>
+            </line>
+            <line>
+              <![CDATA[The name of the testcase passed is: HOTELSEARCH]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hotelSearch -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.goibibo.tests.TS_001_Hotel_Search@2ab4bc72]" started-at="2022-03-08T16:42:46 IST" name="afterTest" finished-at="2022-03-08T16:42:46 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.goibibo.tests.TS_001_Hotel_Search -->
+    </test> <!-- Goibibo Tests -->
+  </suite> <!-- Goibibo Suite -->
+</testng-results>

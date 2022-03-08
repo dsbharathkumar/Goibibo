@@ -1,0 +1,446 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Mar 08 16:13:26 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>570 seconds (570015 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.goibibo.tests.TS_004_Hotel_Filters.hotelFilters()'><b>hotelFilters</b><br>Test class: com.goibibo.tests.TS_004_Hotel_Filters<br>Parameters: ooty, , , 1, 1, 0, Mountain Trails, Pay At Hotel Available, 4.5, 2000<br/>
+<a href="#Output-1360332263" onClick='toggleBox("Output-1360332263", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1360332263" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1360332263">
+Existing rooms 1and Required rooms 1 are same.<br/>
+Minus button at adults section is clicked 1 times<br/>
+Existing rooms 0and Required rooms 0 are same.<br/>
+The Total Number of Hotels are 350<br/>
+Please find the Hotel names below:  <br/>
+1.AURORA LIGHT RESIDENCY<br/>
+2.Rainbow Cottage<br/>
+3.Chettinad Avenue<br/>
+4.Wild zest<br/>
+5.The Majestic Crown<br/>
+6.Garden Manor<br/>
+7.Hill Crest Metro<br/>
+8.Green Apple Residence<br/>
+9.Hotel Lakeview<br/>
+10.Greenyards<br/>
+11.OYO 78034 New Star Cottages<br/>
+12.Glen Park Inn<br/>
+13.OYO 79915 SRJs Thaneesh Residency<br/>
+14.Parkside Residency<br/>
+15.The Monarch<br/>
+16.Sterling Ooty Elk Hill<br/>
+17.Beverly Villa<br/>
+18.Mountain Trails<br/>
+19.Hotel Sapphire Paradise<br/>
+20.Venus Holiday Home<br/>
+21.FabHotel Sholas Residency I<br/>
+22.Hotel Charring Cross<br/>
+23.The Green valley resorts<br/>
+24.Oriental Grand<br/>
+25.FabExpress Grand Castle Hill Resorts<br/>
+26.Hotel Astoria Residency<br/>
+27.Tulips valley view resorts<br/>
+28.Rose Park Residency<br/>
+29.Tulips Elkhill Resorts<br/>
+30.Hotel Carnation<br/>
+31.Zostel Ooty<br/>
+32.YWCA Anandagiri Ooty<br/>
+33.Fortune Retreats<br/>
+34.Al-Woodlands Residency<br/>
+35.La Montana by TGI<br/>
+36.Dew Drop Inn<br/>
+37.OYO 78121 Red Rock<br/>
+38.Vinayaga Inn by Poppys<br/>
+39.FabHotel Khems<br/>
+40.Hotel Sapphire Grand<br/>
+41.Hotel Fairstay<br/>
+42.The Red House<br/>
+43.A Ooty Honey Huts<br/>
+44.Sabol Holiday Resorts<br/>
+45.The Bowers Chalet<br/>
+46.Hotel Welbeck Residency<br/>
+47.OYO 4427 Hotel Gaylord<br/>
+48.OYO 13118 Twin Falls<br/>
+49.Sterling Ooty Fern Hill<br/>
+50.Mount View Heritage Hotel<br/>
+51.Silver Bett Resort<br/>
+52.Delightz Inn<br/>
+53.Green Leaves, The countryside Inn(8 kms from Ooty)<br/>
+54.kumaran cottage<br/>
+55.RK Homes Guest House<br/>
+56.Hotel Alakapuri<br/>
+57.FabHotel Sun Park Grand<br/>
+58.Leopard Rock Wilderness Resort<br/>
+59.DARSHAN HOTEL<br/>
+60.Deccan Park<br/>
+61.Hotel Meadows Residency<br/>
+62.Hotel Tamilnadu, Ooty<br/>
+63.Glyngarth Resort (10km Away from Ooty)<br/>
+64.Vista Suites Kalatti<br/>
+65.Accord HighLand<br/>
+66.Raasinihas Paradise<br/>
+67.Sinclairs Retreat Ooty<br/>
+68.Motherland Residency<br/>
+69.OYO 10950 Hotel Hills Palace<br/>
+70.Western Valley Resorts<br/>
+71.A2B Residency Ooty<br/>
+72.Tuccil<br/>
+73.Ooty Residency<br/>
+74.DIO BEAUMOUNT<br/>
+75.De Santosh Residency<br/>
+76.OYO 35818 Twin Falls Residency<br/>
+77.Golden Springs<br/>
+78.Hotel Khems<br/>
+79.Tiger Hill Homestay<br/>
+80.La Blooms<br/>
+81.OYO 7665 Home Stay Fable Stay<br/>
+82.Palve sugavasam<br/>
+83.The Byke Sunshine Grand<br/>
+84.Hotel Preethi Classic Towers<br/>
+85.I- India<br/>
+86.SV RESIDENCY<br/>
+87.Rock Ooty<br/>
+88.Kemps cave<br/>
+89.Taj Cottage<br/>
+90.Hill Bird Homestay<br/>
+91.OYO Flagship 44245 Hotel Rainforest Thalayathimund<br/>
+92.PHOENIX STAY Ooty<br/>
+93.Skylarc inn<br/>
+94.Hotel Maneck<br/>
+95.Berry Hills Resort<br/>
+96.MANGO HILL CENTRAL OOTY<br/>
+97.Gem Park<br/>
+98.Vermont Valley Cottages By NiveTsa<br/>
+99.Anmols Impex Cottage<br/>
+100.RN Holidays<br/>
+101.Capital O 13231 Hotel Sapphire Garden View<br/>
+102.Treebo Trend Atithi Bhavan<br/>
+103.Sugam Cottages<br/>
+104.MALAIYUR RESIDENCY<br/>
+105.EDEN PARADISE<br/>
+106.Ganga's Sri Balaji Cottage<br/>
+107.Hotel Sri Balaji<br/>
+108.Welcomheritage Ferrnhills Royale Palace<br/>
+109.Woodstock<br/>
+110.The Clubhouse Ooty<br/>
+111.Lakefield Bunglow<br/>
+112.Hotel Mount n Mist<br/>
+113.Hotel KURINJI RESIDENCY<br/>
+114.Aventura Fernhill<br/>
+115.Golden Larch Comfort<br/>
+116.Hotel Silver Oak<br/>
+117.Colonels Inn<br/>
+118.Heaven Hill View by Vista Rooms<br/>
+119.Two Seas Residence<br/>
+120.Aakash Rooms and cottages<br/>
+121.Mountain Retreat - A Hill Country Resort<br/>
+122.Hotel Venus<br/>
+123.Hotel Landmark<br/>
+124.Hotel Maneck Residency<br/>
+125.Seven Hill Guest House<br/>
+126.OYO 77690 Hillwood Cottage<br/>
+127.Adarsh International<br/>
+128.The Abode<br/>
+129.Pratham International<br/>
+130.Hotel Nahar Nilgiris<br/>
+131.Kluney Manor<br/>
+132.Savoy - IHCL SeleQtions, Ooty<br/>
+133.SB Cottage and Homestay<br/>
+134.Mountside Cottage<br/>
+135.The Lovedale Garden Residency<br/>
+136.FabHotel Vinu Valley Resorts<br/>
+137.Ponmari Residency<br/>
+138.Hotel Sun Park<br/>
+139.Hotel Serenity Inn<br/>
+140.S.R Cottage Ooty<br/>
+141.Sri Sai Residency<br/>
+142.Margic Star cottage<br/>
+143.Ever Fresh Cottages<br/>
+144.British Cliff Club Resort<br/>
+145.Treebo Trend Sky Dale Inn & Suites<br/>
+146.EZABELLA LUXURY SERVICE VILLA, Ooty<br/>
+147.Hotel PENTOZ<br/>
+148.Vista Suites Doddabetta<br/>
+149.Collection O 8855 Orchid Inn<br/>
+150.Woodberry Residency<br/>
+151.Treebo Trend Light House<br/>
+152.Hotel Preethi Palace<br/>
+153.Haven Cottage Ooty<br/>
+154.Devi Tourist Inn<br/>
+155.maliekkalresidency<br/>
+156.The Berg by Vista Rooms<br/>
+157.Hotel Sanjay<br/>
+158.Golden Larch Residency<br/>
+159.Albisville Hilltop Mansion<br/>
+160.The Venus Residency<br/>
+161.Exclusive Villa near Rose Garden<br/>
+162.Ishaan Holidays<br/>
+163.Zion<br/>
+164.RANS ROYAL CLUB<br/>
+165.The Mystique Inn<br/>
+166.Mystique Ville<br/>
+167.Nest Inn Nature<br/>
+168.HV 3-3 BHK Villa<br/>
+169.MERAKI MAISON<br/>
+170.FabEscape St. Clouds<br/>
+171.The Baron<br/>
+172.Neo Nirmal Residency<br/>
+173.Spacious Balcony Premium Room in Heart of Ooty<br/>
+174.Hotel Jaysanthi<br/>
+175.Kings View Cottage<br/>
+176.Primrose Cottage<br/>
+177.Southmere Homestay<br/>
+178.OYO 77682 Mohans Cottage<br/>
+179.Princy Cottage Near Boat House<br/>
+180.EADENZ COTTAGE<br/>
+181.Seven Endue Grand<br/>
+182.SS Holiday Inn<br/>
+183.Golfdale Holiday Resort<br/>
+184.Collection O 83248 Silent Valley<br/>
+185.Wildlife Bungalow, rooms or entire house<br/>
+186.Divi Inn cottage<br/>
+187.DrizzleDrop Inn<br/>
+188.PSR Residency<br/>
+189.OYO Flagship 49925 Divi Heritage Inn<br/>
+190.DE AMOR<br/>
+191.Honey huts Budget stay<br/>
+192.Blue hills homes<br/>
+193.Sagar Holiday Inn<br/>
+194.Aishwariya Cottages<br/>
+195.MMR HOLIDAY INN<br/>
+196.West Hill Daffodils Inn<br/>
+197.Coonoor Homestay<br/>
+198.Sivarajaa Residency<br/>
+199.CASA FELICIA- Adding Happy Moments to Your Diary<br/>
+200.Av villa belmont<br/>
+201.The first corner kallatty ooty<br/>
+202.Nakshatra Grand<br/>
+203.Eadenz valley view cottages<br/>
+204.SJM Residency<br/>
+205.R J INN<br/>
+206.Pebrock Heritage Inn<br/>
+207.J R Mist Valley<br/>
+208.Daffodil Cottages<br/>
+209.The JLG cottages<br/>
+210.Radiant cottage<br/>
+211.PS Cottage Arni house<br/>
+212.Vista Suites by Nivetsa, Ooty<br/>
+213.Avocado holidays<br/>
+214.Westwood bungalow<br/>
+215.GanGas 3BHK Cottage<br/>
+216.Honey hut<br/>
+217.RM Cottage Ooty<br/>
+218.Green hills Kallati<br/>
+219.Nahar's Residency Hotel<br/>
+220.Tiger Belmonte Cottage<br/>
+221.S.R RESIDENCY<br/>
+222.Eden inn Ooty<br/>
+223.Misty Green villa<br/>
+224.Bairava Cottage<br/>
+225.The Anmols cottage<br/>
+226.as residency<br/>
+227.Adrika's Maple View Resort<br/>
+228.FabHotel Greenwood Resort<br/>
+229.GV cottages Finger post<br/>
+230.RAM LAKSHMI COTTAGE<br/>
+231.White house cottage<br/>
+232.Kumaran homestay<br/>
+233.Pine Forest View Residency<br/>
+234.Seven Endue Cottages<br/>
+235.Kiara Cottage<br/>
+236.The B Tree Resorts<br/>
+237.Mohan's Villa<br/>
+238.Sanctuary Boutique Hotel<br/>
+239.GK Homestay<br/>
+240.Castle Bungalow<br/>
+241.Valley homes<br/>
+242.Hotel Orchid Inn<br/>
+243.Vels Court Inn<br/>
+244.Lourds Ville Residency<br/>
+245.Vasantham Cottage<br/>
+246.Fitness De Royale Organic County<br/>
+247.Ooty Budget stayz<br/>
+248.SARAH RESIDENCY<br/>
+249.VASISTA'S Athithi bhavan<br/>
+250.Snowdrops Ooty<br/>
+251.Youth Hostel - Ooty<br/>
+252.Blue Mountain Villa<br/>
+253.Dee First Corner<br/>
+254.GOLDEN RESORTS<br/>
+255.Lalana Residency<br/>
+256.Hill Inn Homestay<br/>
+257.Veega Pearls Resorts<br/>
+258.VASANTHAM PALACE<br/>
+259.Aishwariya 3-BHK Cottage<br/>
+260.Sherlock Homes<br/>
+261.SRS Cottage<br/>
+262.Train View Cottage<br/>
+263.Glen View homestay<br/>
+264.Yantra Leisures<br/>
+265.Destiny The Farm Resort<br/>
+266.Orion Cottage<br/>
+267.Greenary inn<br/>
+268.CUCKOO KUDIL HOME STAY<br/>
+269.Sierra Vale<br/>
+270.Hotel Lakshmi Cottage<br/>
+271.Holiday Home near Ooty Lake<br/>
+272.Mayberry<br/>
+273.Hill View Dream Annex<br/>
+274.Bellevue Homestay<br/>
+275.Ooty Mas Cottage<br/>
+276.Bellmount<br/>
+277.Strawberry Cottage<br/>
+278.Praba rooms and cottages<br/>
+279.Saibala Residency<br/>
+280.Sriram garden cottage<br/>
+281.The Yellow leaf Cottages<br/>
+282.SMT Homes<br/>
+283.Royal Residency<br/>
+284.Lovely Cottage<br/>
+285.Bliss belmonte<br/>
+286.Homely Cottages<br/>
+287.Ranch Villa Ooty<br/>
+288.Belmonte cottage<br/>
+289.Cuckoo Nest Ooty<br/>
+290.Paradise villa<br/>
+291.Shafis Green Land<br/>
+292.Abi Suvi Homestay<br/>
+293.KS Cottage<br/>
+294.The Wonder Hill<br/>
+295.Top hill guest house<br/>
+296.Gangothri<br/>
+297.Dew cottages<br/>
+298.Mayan Resorts<br/>
+299.Club House Cottage I<br/>
+300.accsys Impex Rooms<br/>
+301.Rohith & Vijay Guest house<br/>
+302.Ajay Residency<br/>
+303.Kemps Camp<br/>
+304.AISHWARIYAA GARDENS<br/>
+305.TG Hills cottage<br/>
+306.AS Stay Residency<br/>
+307.Hills Cottages(1)<br/>
+308.Travel Stay Residence<br/>
+309.BM Cottage<br/>
+310.Kurunji Residency<br/>
+311.K R Cottage<br/>
+312.Yaseen Cottages<br/>
+313.NEELIMALAI RESIDENCY<br/>
+314.Drop Zone<br/>
+315.TGT homes<br/>
+316.GV residency<br/>
+317.Pebrock cottage<br/>
+318.S S Cottage<br/>
+319.The Imperial royal stay<br/>
+320.Sri Sai Cottage (Standard Room)<br/>
+321.Woody's Misty home<br/>
+322.Minis cottage<br/>
+323.Eadenz rooms and cottage<br/>
+324.Weston Holiday Inn<br/>
+325.Golden park<br/>
+326.The Smilestone<br/>
+327.Maruthi Sunrise Cottage<br/>
+328.The coral Yloo<br/>
+329.OOTY Abisuvi Home Stay<br/>
+330.Happy Homestay<br/>
+331.Pine view stay<br/>
+332.Coral bells<br/>
+333.Marryland cottage<br/>
+334.White Crystal Home<br/>
+335.Tiger hill homestay<br/>
+336.K P Cottage<br/>
+337.The madhuvanna cottage<br/>
+338.Silent wild Cottage<br/>
+339.Stone hill Cottage<br/>
+340.HILLTOP HOME STAY<br/>
+341.Aura Cottage (Deluxe Room)<br/>
+342.Gopi's Residency A Comfort stay<br/>
+343.Osprey Cottage<br/>
+344.Belmonte 3 bedroom villa<br/>
+345.Hotel Gangothri Sunrise<br/>
+346.Royal Heritage<br/>
+347.Club House Cottage - Rooms (4 Bedded Room)<br/>
+348.Vermount Resorts<br/>
+349.Linga Villa<br/>
+350.Swiya Holidays<br/>
+<a href='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646736773952.png'> <img src='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646736773952.png' height='500' width='500'/></a> <br/>
+</div>
+</td>
+<td></td>
+<td>541</td>
+<td>com.goibibo.tests.TS_004_Hotel_Filters@673fdbce</td></tr>
+</table><p>
+</body>
+</html>

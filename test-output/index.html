@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Goibibo_Suite" class="navigator-link">
+              <span class="suite-name border-failed">Goibibo Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Goibibo_Suite" class="navigator-link ">
+                    <span>C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Goibibo_Suite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Goibibo_Suite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Goibibo_Suite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Goibibo_Suite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Goibibo_Suite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Goibibo_Suite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">4 methods, 1 failed,   3 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Goibibo_Suite" class="hide-methods failed suite-Goibibo_Suite"> (hide)</a> <!-- hide-methods failed suite-Goibibo_Suite -->
+                      <a href="#" panel-name="suite-Goibibo_Suite" class="show-methods failed suite-Goibibo_Suite"> (show)</a> <!-- show-methods failed suite-Goibibo_Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Goibibo_Suite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Goibibo_Suite" title="com.goibibo.tests.TS_002_Hotel_Booking" class="method navigator-link" hash-for-method="hotelBooking(ooty, , , 1, 1, 0, Mountain Trails, Mr, dsbk, dsbk, gsar@gm.com, 91, 8282345643, 724762834, haswin, ...)">hotelBooking(ooty, , , 1, 1, 0, Mountain Trails, Mr, dsbk, dsbk, gsar@gm.com, 91, 8282345643, 724762834, haswin, ...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Goibibo_Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Goibibo_Suite" class="hide-methods passed suite-Goibibo_Suite"> (hide)</a> <!-- hide-methods passed suite-Goibibo_Suite -->
+                      <a href="#" panel-name="suite-Goibibo_Suite" class="show-methods passed suite-Goibibo_Suite"> (show)</a> <!-- show-methods passed suite-Goibibo_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Goibibo_Suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Goibibo_Suite" title="com.goibibo.tests.TS_003_Hotel_Details" class="method navigator-link" hash-for-method="hotelDetails(ooty, , , 1, 1, 0, Mountain Trails)">hotelDetails(ooty, , , 1, 1, 0, Mountain Trails)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Goibibo_Suite" title="com.goibibo.tests.TS_004_Hotel_Filters" class="method navigator-link" hash-for-method="hotelFilters(ooty, , , 1, 1, 0, Mountain Trails, Pay At Hotel Available, 4.5, 2000)">hotelFilters(ooty, , , 1, 1, 0, Mountain Trails, Pay At Hotel Available, 4.5, 2000)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Goibibo_Suite" title="com.goibibo.tests.TS_001_Hotel_Search" class="method navigator-link" hash-for-method="hotelSearch(ooty, , , 1, 1, 0)">hotelSearch(ooty, , , 1, 1, 0)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Goibibo_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Goibibo_Suite" class="panel Goibibo_Suite">
+          <div class="suite-Goibibo_Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.goibibo.tests.TS_002_Hotel_Booking</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="hotelBooking(ooty, , , 1, 1, 0, Mountain Trails, Mr, dsbk, dsbk, gsar@gm.com, 91, 8282345643, 724762834, haswin, ...)">
+                  </a> <!-- hotelBooking(ooty, , , 1, 1, 0, Mountain Trails, Mr, dsbk, dsbk, gsar@gm.com, 91, 8282345643, 724762834, haswin, ...) -->
+                  <span class="method-name">hotelBooking</span>
+                  <span class="parameters">(ooty, , , 1, 1, 0, Mountain Trails, Mr, dsbk, dsbk, gsar@gm.com, 91, 8282345643, 724762834, haswin, 1232, 27)</span>
+                  <div class="stack-trace">java.lang.AssertionError: Valdiation errors are [Please Enter Valid Card Number, Please Enter Valid CVV Number] expected [false] but found [true]
+	at com.goibibo.tests.TS_002_Hotel_Booking.hotelBooking(TS_002_Hotel_Booking.java:126)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Goibibo_Suite-class-failed -->
+          <div class="suite-Goibibo_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.goibibo.tests.TS_001_Hotel_Search</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="hotelSearch(ooty, , , 1, 1, 0)">
+                  </a> <!-- hotelSearch(ooty, , , 1, 1, 0) -->
+                  <span class="method-name">hotelSearch</span>
+                  <span class="parameters">(ooty, , , 1, 1, 0)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Goibibo_Suite-class-passed -->
+          <div class="suite-Goibibo_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.goibibo.tests.TS_004_Hotel_Filters</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="hotelFilters(ooty, , , 1, 1, 0, Mountain Trails, Pay At Hotel Available, 4.5, 2000)">
+                  </a> <!-- hotelFilters(ooty, , , 1, 1, 0, Mountain Trails, Pay At Hotel Available, 4.5, 2000) -->
+                  <span class="method-name">hotelFilters</span>
+                  <span class="parameters">(ooty, , , 1, 1, 0, Mountain Trails, Pay At Hotel Available, 4.5, 2000)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Goibibo_Suite-class-passed -->
+          <div class="suite-Goibibo_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.goibibo.tests.TS_003_Hotel_Details</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="hotelDetails(ooty, , , 1, 1, 0, Mountain Trails)">
+                  </a> <!-- hotelDetails(ooty, , , 1, 1, 0, Mountain Trails) -->
+                  <span class="method-name">hotelDetails</span>
+                  <span class="parameters">(ooty, , , 1, 1, 0, Mountain Trails)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Goibibo_Suite-class-passed -->
+        </div> <!-- panel Goibibo_Suite -->
+        <div panel-name="test-xml-Goibibo_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Goibibo Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.goibibo.utilities.Listeners&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Goibibo Tests&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.goibibo.tests.TS_001_Hotel_Search&quot;/&gt;
+      &lt;class name=&quot;com.goibibo.tests.TS_002_Hotel_Booking&quot;/&gt;
+      &lt;class name=&quot;com.goibibo.tests.TS_003_Hotel_Details&quot;/&gt;
+      &lt;class name=&quot;com.goibibo.tests.TS_004_Hotel_Filters&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Goibibo Tests --&gt;
+&lt;/suite&gt; &lt;!-- Goibibo Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Goibibo_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Goibibo Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Goibibo Tests (4 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Goibibo_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Goibibo Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Goibibo_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Goibibo Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Goibibo_Suite');
+function tableData_Goibibo_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(4);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'hotelSearch')
+data.setCell(0, 2, 'com.goibibo.tests.TS_001_Hotel_Search')
+data.setCell(0, 3, 445507);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'hotelFilters')
+data.setCell(1, 2, 'com.goibibo.tests.TS_004_Hotel_Filters')
+data.setCell(1, 3, 292491);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'hotelBooking')
+data.setCell(2, 2, 'com.goibibo.tests.TS_002_Hotel_Booking')
+data.setCell(2, 3, 214743);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'hotelDetails')
+data.setCell(3, 2, 'com.goibibo.tests.TS_003_Hotel_Details')
+data.setCell(3, 3, 116679);
+window.suiteTableData['Goibibo_Suite']= { tableData: data, tableDiv: 'times-div-Goibibo_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 17 minutes</span>
+              <div id="times-div-Goibibo_Suite">
+              </div> <!-- times-div-Goibibo_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Goibibo_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Goibibo Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">hotelDetails(ooty, , , 1, 1, 0, Mountain Trails)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test case started: HOTELDETAILS</span>
+                <span class="reporter-method-output">Existing rooms 1and Required rooms 1 are same.</span>
+                <span class="reporter-method-output">Minus button at adults section is clicked 1 times</span>
+                <span class="reporter-method-output">Existing rooms 0and Required rooms 0 are same.</span>
+                <span class="reporter-method-output">The Total Number of Hotels are 80</span>
+                <span class="reporter-method-output">Please find the Hotel names below:  </span>
+                <span class="reporter-method-output">1.AURORA LIGHT RESIDENCY</span>
+                <span class="reporter-method-output">2.Rainbow Cottage</span>
+                <span class="reporter-method-output">3.Chettinad Avenue</span>
+                <span class="reporter-method-output">4.Hotel Sapphire Paradise</span>
+                <span class="reporter-method-output">5.Wild zest</span>
+                <span class="reporter-method-output">6.Green Apple Residence</span>
+                <span class="reporter-method-output">7.The Majestic Crown</span>
+                <span class="reporter-method-output">8.Garden Manor</span>
+                <span class="reporter-method-output">9.Hill Crest Metro</span>
+                <span class="reporter-method-output">10.Sterling Ooty Elk Hill</span>
+                <span class="reporter-method-output">11.Venus Holiday Home</span>
+                <span class="reporter-method-output">12.Hotel Lakeview</span>
+                <span class="reporter-method-output">13.Greenyards</span>
+                <span class="reporter-method-output">14.FabHotel Sholas Residency I</span>
+                <span class="reporter-method-output">15.OYO 13118 Twin Falls</span>
+                <span class="reporter-method-output">16.Hotel Charring Cross</span>
+                <span class="reporter-method-output">17.OYO 78034 New Star Cottages</span>
+                <span class="reporter-method-output">18.Glen Park Inn</span>
+                <span class="reporter-method-output">19.OYO 79915 SRJs Thaneesh Residency</span>
+                <span class="reporter-method-output">20.Parkside Residency</span>
+                <span class="reporter-method-output">21.The Monarch</span>
+                <span class="reporter-method-output">22.The Green valley resorts</span>
+                <span class="reporter-method-output">23.Beverly Villa</span>
+                <span class="reporter-method-output">24.Oriental Grand</span>
+                <span class="reporter-method-output">25.FabExpress Grand Castle Hill Resorts</span>
+                <span class="reporter-method-output">26.Mountain Trails</span>
+                <span class="reporter-method-output">27.Hotel Astoria Residency</span>
+                <span class="reporter-method-output">28.Tulips valley view resorts</span>
+                <span class="reporter-method-output">29.Rose Park Residency</span>
+                <span class="reporter-method-output">30.Tulips Elkhill Resorts</span>
+                <span class="reporter-method-output">31.Hotel Carnation</span>
+                <span class="reporter-method-output">32.Zostel Ooty</span>
+                <span class="reporter-method-output">33.YWCA Anandagiri Ooty</span>
+                <span class="reporter-method-output">34.Fortune Retreats</span>
+                <span class="reporter-method-output">35.Al-Woodlands Residency</span>
+                <span class="reporter-method-output">36.Dew Drop Inn</span>
+                <span class="reporter-method-output">37.OYO 78121 Red Rock</span>
+                <span class="reporter-method-output">38.La Montana by TGI</span>
+                <span class="reporter-method-output">39.Vinayaga Inn by Poppys</span>
+                <span class="reporter-method-output">40.FabHotel Khems</span>
+                <span class="reporter-method-output">41.Hotel Sapphire Grand</span>
+                <span class="reporter-method-output">42.Hotel Fairstay</span>
+                <span class="reporter-method-output">43.The Red House</span>
+                <span class="reporter-method-output">44.A Ooty Honey Huts</span>
+                <span class="reporter-method-output">45.Sabol Holiday Resorts</span>
+                <span class="reporter-method-output">46.The Bowers Chalet</span>
+                <span class="reporter-method-output">47.Hotel Welbeck Residency</span>
+                <span class="reporter-method-output">48.OYO 4427 Hotel Gaylord</span>
+                <span class="reporter-method-output">49.Sterling Ooty Fern Hill</span>
+                <span class="reporter-method-output">50.Mount View Heritage Hotel</span>
+                <span class="reporter-method-output">51.Silver Bett Resort</span>
+                <span class="reporter-method-output">52.Delightz Inn</span>
+                <span class="reporter-method-output">53.Green Leaves, The countryside Inn(8 kms from Ooty)</span>
+                <span class="reporter-method-output">54.kumaran cottage</span>
+                <span class="reporter-method-output">55.RK Homes Guest House</span>
+                <span class="reporter-method-output">56.Hotel Alakapuri</span>
+                <span class="reporter-method-output">57.FabHotel Sun Park Grand</span>
+                <span class="reporter-method-output">58.Leopard Rock Wilderness Resort</span>
+                <span class="reporter-method-output">59.DARSHAN HOTEL</span>
+                <span class="reporter-method-output">60.Deccan Park</span>
+                <span class="reporter-method-output">61.Hotel Meadows Residency</span>
+                <span class="reporter-method-output">62.Hotel Tamilnadu, Ooty</span>
+                <span class="reporter-method-output">63.Glyngarth Resort (10km Away from Ooty)</span>
+                <span class="reporter-method-output">64.Vista Suites Kalatti</span>
+                <span class="reporter-method-output">65.Accord HighLand</span>
+                <span class="reporter-method-output">66.Raasinihas Paradise</span>
+                <span class="reporter-method-output">67.Sinclairs Retreat Ooty</span>
+                <span class="reporter-method-output">68.Motherland Residency</span>
+                <span class="reporter-method-output">69.OYO 10950 Hotel Hills Palace</span>
+                <span class="reporter-method-output">70.Western Valley Resorts</span>
+                <span class="reporter-method-output">71.A2B Residency Ooty</span>
+                <span class="reporter-method-output">72.Tuccil</span>
+                <span class="reporter-method-output">73.Ooty Residency</span>
+                <span class="reporter-method-output">74.DIO BEAUMOUNT</span>
+                <span class="reporter-method-output">75.De Santosh Residency</span>
+                <span class="reporter-method-output">76.OYO 35818 Twin Falls Residency</span>
+                <span class="reporter-method-output">77.Golden Springs</span>
+                <span class="reporter-method-output">78.Hotel Khems</span>
+                <span class="reporter-method-output">79.Tiger Hill Homestay</span>
+                <span class="reporter-method-output">80.La Blooms</span>
+                <span class="reporter-method-output"><a href='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737664795.png'> <img src='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737664795.png' height='500' width='500'/></a> </span>
+                <span class="reporter-method-output">The name of the testcase passed is: HOTELDETAILS</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">hotelFilters(ooty, , , 1, 1, 0, Mountain Trails, Pay At Hotel Available, 4.5, 2000)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test case started: HOTELFILTERS</span>
+                <span class="reporter-method-output">Existing rooms 1and Required rooms 1 are same.</span>
+                <span class="reporter-method-output">Minus button at adults section is clicked 1 times</span>
+                <span class="reporter-method-output">Existing rooms 0and Required rooms 0 are same.</span>
+                <span class="reporter-method-output">The Total Number of Hotels are 40</span>
+                <span class="reporter-method-output">Please find the Hotel names below:  </span>
+                <span class="reporter-method-output">1.AURORA LIGHT RESIDENCY</span>
+                <span class="reporter-method-output">2.Rainbow Cottage</span>
+                <span class="reporter-method-output">3.Chettinad Avenue</span>
+                <span class="reporter-method-output">4.Hotel Sapphire Paradise</span>
+                <span class="reporter-method-output">5.Wild zest</span>
+                <span class="reporter-method-output">6.Green Apple Residence</span>
+                <span class="reporter-method-output">7.The Majestic Crown</span>
+                <span class="reporter-method-output">8.Garden Manor</span>
+                <span class="reporter-method-output">9.Hill Crest Metro</span>
+                <span class="reporter-method-output">10.Sterling Ooty Elk Hill</span>
+                <span class="reporter-method-output">11.Venus Holiday Home</span>
+                <span class="reporter-method-output">12.Hotel Lakeview</span>
+                <span class="reporter-method-output">13.Greenyards</span>
+                <span class="reporter-method-output">14.FabHotel Sholas Residency I</span>
+                <span class="reporter-method-output">15.OYO 13118 Twin Falls</span>
+                <span class="reporter-method-output">16.Hotel Charring Cross</span>
+                <span class="reporter-method-output">17.OYO 78034 New Star Cottages</span>
+                <span class="reporter-method-output">18.Glen Park Inn</span>
+                <span class="reporter-method-output">19.OYO 79915 SRJs Thaneesh Residency</span>
+                <span class="reporter-method-output">20.Parkside Residency</span>
+                <span class="reporter-method-output">21.The Monarch</span>
+                <span class="reporter-method-output">22.The Green valley resorts</span>
+                <span class="reporter-method-output">23.Beverly Villa</span>
+                <span class="reporter-method-output">24.Oriental Grand</span>
+                <span class="reporter-method-output">25.FabExpress Grand Castle Hill Resorts</span>
+                <span class="reporter-method-output">26.Mountain Trails</span>
+                <span class="reporter-method-output">27.Hotel Astoria Residency</span>
+                <span class="reporter-method-output">28.Tulips valley view resorts</span>
+                <span class="reporter-method-output">29.Rose Park Residency</span>
+                <span class="reporter-method-output">30.Tulips Elkhill Resorts</span>
+                <span class="reporter-method-output">31.Hotel Carnation</span>
+                <span class="reporter-method-output">32.Zostel Ooty</span>
+                <span class="reporter-method-output">33.YWCA Anandagiri Ooty</span>
+                <span class="reporter-method-output">34.Fortune Retreats</span>
+                <span class="reporter-method-output">35.Al-Woodlands Residency</span>
+                <span class="reporter-method-output">36.Dew Drop Inn</span>
+                <span class="reporter-method-output">37.OYO 78121 Red Rock</span>
+                <span class="reporter-method-output">38.La Montana by TGI</span>
+                <span class="reporter-method-output">39.Vinayaga Inn by Poppys</span>
+                <span class="reporter-method-output">40.FabHotel Khems</span>
+                <span class="reporter-method-output"><a href='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737966464.png'> <img src='C:\Users\Bharath_kumar_Ds\eclipse-work\Goibibo\.\screenshots\Screenshot_1646737966464.png' height='500' width='500'/></a> </span>
+                <span class="reporter-method-output">The name of the testcase passed is: HOTELFILTERS</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">hotelSearch(ooty, , , 1, 1, 0)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test case started: HOTELSEARCH</span>
+                <span class="reporter-method-output">Existing rooms 1and Required rooms 1 are same.</span>
+                <span class="reporter-method-output">Minus button at adults section is clicked 1 times</span>
+                <span class="reporter-method-output">Existing rooms 0and Required rooms 0 are same.</span>
+                <span class="reporter-method-output">The Total Number of Hotels are 367</span>
+                <span class="reporter-method-output">Please find the Hotel names below:  </span>
+                <span class="reporter-method-output">1.AURORA LIGHT RESIDENCY</span>
+                <span class="reporter-method-output">2.Rainbow Cottage</span>
+                <span class="reporter-method-output">3.Chettinad Avenue</span>
+                <span class="reporter-method-output">4.Wild zest</span>
+                <span class="reporter-method-output">5.The Majestic Crown</span>
+                <span class="reporter-method-output">6.Garden Manor</span>
+                <span class="reporter-method-output">7.Hill Crest Metro</span>
+                <span class="reporter-method-output">8.Green Apple Residence</span>
+                <span class="reporter-method-output">9.Hotel Lakeview</span>
+                <span class="reporter-method-output">10.Greenyards</span>
+                <span class="reporter-method-output">11.OYO 78034 New Star Cottages</span>
+                <span class="reporter-method-output">12.Glen Park Inn</span>
+                <span class="reporter-method-output">13.OYO 79915 SRJs Thaneesh Residency</span>
+                <span class="reporter-method-output">14.Parkside Residency</span>
+                <span class="reporter-method-output">15.The Monarch</span>
+                <span class="reporter-method-output">16.The Green valley resorts</span>
+                <span class="reporter-method-output">17.Sterling Ooty Elk Hill</span>
+                <span class="reporter-method-output">18.Beverly Villa</span>
+                <span class="reporter-method-output">19.Oriental Grand</span>
+                <span class="reporter-method-output">20.FabExpress Grand Castle Hill Resorts</span>
+                <span class="reporter-method-output">21.Mountain Trails</span>
+                <span class="reporter-method-output">22.Hotel Astoria Residency</span>
+                <span class="reporter-method-output">23.Tulips valley view resorts</span>
+                <span class="reporter-method-output">24.Rose Park Residency</span>
+                <span class="reporter-method-output">25.Tulips Elkhill Resorts</span>
+                <span class="reporter-method-output">26.Hotel Carnation</span>
+                <span class="reporter-method-output">27.Zostel Ooty</span>
+                <span class="reporter-method-output">28.YWCA Anandagiri Ooty</span>
+                <span class="reporter-method-output">29.Fortune Retreats</span>
+                <span class="reporter-method-output">30.Al-Woodlands Residency</span>
+                <span class="reporter-method-output">31.La Montana by TGI</span>
+                <span class="reporter-method-output">32.Dew Drop Inn</span>
+                <span class="reporter-method-output">33.OYO 78121 Red Rock</span>
+                <span class="reporter-method-output">34.Vinayaga Inn by Poppys</span>
+                <span class="reporter-method-output">35.FabHotel Khems</span>
+                <span class="reporter-method-output">36.Hotel Sapphire Grand</span>
+                <span class="reporter-method-output">37.Hotel Fairstay</span>
+                <span class="reporter-method-output">38.The Red House</span>
+                <span class="reporter-method-output">39.A Ooty Honey Huts</span>
+                <span class="reporter-method-output">40.Sabol Holiday Resorts</span>
+                <span class="reporter-method-output">41.The Bowers Chalet</span>
+                <span class="reporter-method-output">42.Hotel Welbeck Residency</span>
+                <span class="reporter-method-output">43.OYO 4427 Hotel Gaylord</span>
+                <span class="reporter-method-output">44.OYO 13118 Twin Falls</span>
+                <span class="reporter-method-output">45.Sterling Ooty Fern Hill</span>
+                <span class="reporter-method-output">46.Mount View Heritage Hotel</span>
+                <span class="reporter-method-output">47.Silver Bett Resort</span>
+                <span class="reporter-method-output">48.Delightz Inn</span>
+                <span class="reporter-method-output">49.Green Leaves, The countryside Inn(8 kms from Ooty)</span>
+                <span class="reporter-method-output">50.kumaran cottage</span>
+                <span class="reporter-method-output">51.RK Homes Guest House</span>
+                <span class="reporter-method-output">52.Hotel Alakapuri</span>
+                <span class="reporter-method-output">53.FabHotel Sun Park Grand</span>
+                <span class="reporter-method-output">54.Leopard Rock Wilderness Resort</span>
+                <span class="reporter-method-output">55.DARSHAN HOTEL</span>
+                <span class="reporter-method-output">56.Deccan Park</span>
+                <span class="reporter-method-output">57.Hotel Meadows Residency</span>
+                <span class="reporter-method-output">58.Hotel Tamilnadu, Ooty</span>
+                <span class="reporter-method-output">59.Glyngarth Resort (10km Away from Ooty)</span>
+                <span class="reporter-method-output">60.Vista Suites Kalatti</span>
+                <span class="reporter-method-output">61.Accord HighLand</span>
+                <span class="reporter-method-output">62.Raasinihas Paradise</span>
+                <span class="reporter-method-output">63.Sinclairs Retreat Ooty</span>
+                <span class="reporter-method-output">64.Motherland Residency</span>
+                <span class="reporter-method-output">65.OYO 10950 Hotel Hills Palace</span>
+                <span class="reporter-method-output">66.Western Valley Resorts</span>
+                <span class="reporter-method-output">67.A2B Residency Ooty</span>
+                <span class="reporter-method-output">68.Tuccil</span>
+                <span class="reporter-method-output">69.Ooty Residency</span>
+                <span class="reporter-method-output">70.DIO BEAUMOUNT</span>
+                <span class="reporter-method-output">71.De Santosh Residency</span>
+                <span class="reporter-method-output">72.OYO 35818 Twin Falls Residency</span>
+                <span class="reporter-method-output">73.Golden Springs</span>
+                <span class="reporter-method-output">74.Hotel Khems</span>
+                <span class="reporter-method-output">75.Tiger Hill Homestay</span>
+                <span class="reporter-method-output">76.La Blooms</span>
+                <span class="reporter-method-output">77.OYO 7665 Home Stay Fable Stay</span>
+                <span class="reporter-method-output">78.Palve sugavasam</span>
+                <span class="reporter-method-output">79.The Byke Sunshine Grand</span>
+                <span class="reporter-method-output">80.Hotel Preethi Classic Towers</span>
+                <span class="reporter-method-output">81.I- India</span>
+                <span class="reporter-method-output">82.SV RESIDENCY</span>
+                <span class="reporter-method-output">83.Rock Ooty</span>
+                <span class="reporter-method-output">84.Kemps cave</span>
+                <span class="reporter-method-output">85.Taj Cottage</span>
+                <span class="reporter-method-output">86.Hill Bird Homestay</span>
+                <span class="reporter-method-output">87.OYO Flagship 44245 Hotel Rainforest Thalayathimund</span>
+                <span class="reporter-method-output">88.PHOENIX STAY Ooty</span>
+                <span class="reporter-method-output">89.Skylarc inn</span>
+                <span class="reporter-method-output">90.Hotel Maneck</span>
+                <span class="reporter-method-output">91.Berry Hills Resort</span>
+                <span class="reporter-method-output">92.MANGO HILL CENTRAL OOTY</span>
+                <span class="reporter-method-output">93.Gem Park</span>
+                <span class="reporter-method-output">94.Vermont Valley Cottages By NiveTsa</span>
+                <span class="reporter-method-output">95.Anmols Impex Cottage</span>
+                <span class="reporter-method-output">96.RN Holidays</span>
+                <span class="reporter-method-output">97.Capital O 13231 Hotel Sapphire Garden View</span>
+                <span class="reporter-method-output">98.Treebo Trend Atithi Bhavan</span>
+                <span class="reporter-method-output">99.Sugam Cottages</span>
+                <span class="reporter-method-output">100.MALAIYUR RESIDENCY</span>
+                <span class="reporter-method-output">101.EDEN PARADISE</span>
+                <span class="reporter-method-output">102.Ganga's Sri Balaji Cottage</span>
+                <span class="reporter-method-output">103.Hotel Sri Balaji</span>
+                <span class="reporter-method-output">104.Welcomheritage Ferrnhills Royale Palace</span>
+                <span class="reporter-method-output">105.Woodstock</span>
+                <span class="reporter-method-output">106.The Clubhouse Ooty</span>
+                <span class="reporter-method-output">107.Lakefield Bunglow</span>
+                <span class="reporter-method-output">108.Hotel Mount n Mist</span>
+                <span class="reporter-method-output">109.Hotel KURINJI RESIDENCY</span>
+                <span class="reporter-method-output">110.Aventura Fernhill</span>
+                <span class="reporter-method-output">111.Golden Larch Comfort</span>
+                <span class="reporter-method-output">112.Hotel Silver Oak</span>
+                <span class="reporter-method-output">113.Colonels Inn</span>
+                <span class="reporter-method-output">114.Heaven Hill View by Vista Rooms</span>
+                <span class="reporter-method-output">115.Two Seas Residence</span>
+                <span class="reporter-method-output">116.Aakash Rooms and cottages</span>
+                <span class="reporter-method-output">117.Mountain Retreat - A Hill Country Resort</span>
+                <span class="reporter-method-output">118.Hotel Venus</span>
+                <span class="reporter-method-output">119.Hotel Landmark</span>
+                <span class="reporter-method-output">120.Hotel Maneck Residency</span>
+                <span class="reporter-method-output">121.Seven Hill Guest House</span>
+                <span class="reporter-method-output">122.OYO 77690 Hillwood Cottage</span>
+                <span class="reporter-method-output">123.Adarsh International</span>
+                <span class="reporter-method-output">124.The Abode</span>
+                <span class="reporter-method-output">125.Pratham International</span>
+                <span class="reporter-method-output">126.Hotel Nahar Nilgiris</span>
+                <span class="reporter-method-output">127.Kluney Manor</span>
+                <span class="reporter-method-output">128.Savoy - IHCL SeleQtions, Ooty</span>
+                <span class="reporter-method-output">129.SB Cottage and Homestay</span>
+                <span class="reporter-method-output">130.Mountside Cottage</span>
+                <span class="reporter-method-output">131.The Lovedale Garden Residency</span>
+                <span class="reporter-method-output">132.FabHotel Vinu Valley Resorts</span>
+                <span class="reporter-method-output">133.Ponmari Residency</span>
+                <span class="reporter-method-output">134.Hotel Sun Park</span>
+                <span class="reporter-method-output">135.Hotel Serenity Inn</span>
+                <span class="reporter-method-output">136.S.R Cottage Ooty</span>
+                <span class="reporter-method-output">137.Sri Sai Residency</span>
+                <span class="reporter-method-output">138.Margic Star cottage</span>
+                <span class="reporter-method-output">139.Ever Fresh Cottages</span>
+                <span class="reporter-method-output">140.British Cliff Club Resort</span>
+                <span class="reporter-method-output">141.Treebo Trend Sky Dale Inn & Suites</span>
+                <span class="reporter-method-output">142.EZABELLA LUXURY SERVICE VILLA, Ooty</span>
+                <span class="reporter-method-output">143.Hotel PENTOZ</span>
+                <span class="reporter-method-output">144.Vista Suites Doddabetta</span>
+                <span class="reporter-method-output">145.Collection O 8855 Orchid Inn</span>
+                <span class="reporter-method-output">146.Woodberry Residency</span>
+                <span class="reporter-method-output">147.Treebo Trend Light House</span>
+                <span class="reporter-method-output">148.Hotel Preethi Palace</span>
+                <span class="reporter-method-output">149.Haven Cottage Ooty</span>
+                <span class="reporter-method-output">150.Devi Tourist Inn</span>
+                <span class="reporter-method-output">151.maliekkalresidency</span>
+                <span class="reporter-method-output">152.The Berg by Vista Rooms</span>
+                <span class="reporter-method-output">153.Hotel Sanjay</span>
+                <span class="reporter-method-output">154.Golden Larch Residency</span>
+                <span class="reporter-method-output">155.Albisville Hilltop Mansion</span>
+                <span class="reporter-method-output">156.The Venus Residency</span>
+                <span class="reporter-method-output">157.Exclusive Villa near Rose Garden</span>
+                <span class="reporter-method-output">158.Ishaan Holidays</span>
+                <span class="reporter-method-output">159.Zion</span>
+                <span class="reporter-method-output">160.RANS ROYAL CLUB</span>
+                <span class="reporter-method-output">161.The Mystique Inn</span>
+                <span class="reporter-method-output">162.Mystique Ville</span>
+                <span class="reporter-method-output">163.Nest Inn Nature</span>
+                <span class="reporter-method-output">164.HV 3-3 BHK Villa</span>
+                <span class="reporter-method-output">165.MERAKI MAISON</span>
+                <span class="reporter-method-output">166.FabEscape St. Clouds</span>
+                <span class="reporter-method-output">167.The Baron</span>
+                <span class="reporter-method-output">168.Neo Nirmal Residency</span>
+                <span class="reporter-method-output">169.Spacious Balcony Premium Room in Heart of Ooty</span>
+                <span class="reporter-method-output">170.Hotel Jaysanthi</span>
+                <span class="reporter-method-output">171.Kings View Cottage</span>
+                <span class="reporter-method-output">172.Primrose Cottage</span>
+                <span class="reporter-method-output">173.Southmere Homestay</span>
+                <span class="reporter-method-output">174.OYO 77682 Mohans Cottage</span>
+                <span class="reporter-method-output">175.Princy Cottage Near Boat House</span>
+                <span class="reporter-method-output">176.EADENZ COTTAGE</span>
+                <span class="reporter-method-output">177.Seven Endue Grand</span>
+                <span class="reporter-method-output">178.SS Holiday Inn</span>
+                <span class="reporter-method-output">179.Golfdale Holiday Resort</span>
+                <span class="reporter-method-output">180.Collection O 83248 Silent Valley</span>
+                <span class="reporter-method-output">181.Wildlife Bungalow, rooms or entire house</span>
+                <span class="reporter-method-output">182.Divi Inn cottage</span>
+                <span class="reporter-method-output">183.DrizzleDrop Inn</span>
+                <span class="reporter-method-output">184.PSR Residency</span>
+                <span class="reporter-method-output">185.OYO Flagship 49925 Divi Heritage Inn</span>
+                <span class="reporter-method-output">186.DE AMOR</span>
+                <span class="reporter-method-output">187.Honey huts Budget stay</span>
+                <span class="reporter-method-output">188.Blue hills homes</span>
+                <span class="reporter-method-output">189.Sagar Holiday Inn</span>
+                <span class="reporter-method-output">190.Aishwariya Cottages</span>
+                <span class="reporter-method-output">191.MMR HOLIDAY INN</span>
+                <span class="reporter-method-output">192.West Hill Daffodils Inn</span>
+                <span class="reporter-method-output">193.Coonoor Homestay</span>
+                <span class="reporter-method-output">194.Sivarajaa Residency</span>
+                <span class="reporter-method-output">195.CASA FELICIA- Adding Happy Moments to Your Diary</span>
+                <span class="reporter-method-output">196.Av villa belmont</span>
+                <span class="reporter-method-output">197.The first corner kallatty ooty</span>
+                <span class="reporter-method-output">198.Nakshatra Grand</span>
+                <span class="reporter-method-output">199.Eadenz valley view cottages</span>
+                <span class="reporter-method-output">200.SJM Residency</span>
+                <span class="reporter-method-output">201.R J INN</span>
+                <span class="reporter-method-output">202.Pebrock Heritage Inn</span>
+                <span class="reporter-method-output">203.J R Mist Valley</span>
+                <span class="reporter-method-output">204.Daffodil Cottages</span>
+                <span class="reporter-method-output">205.The JLG cottages</span>
+                <span class="reporter-method-output">206.Radiant cottage</span>
+                <span class="reporter-method-output">207.PS Cottage Arni house</span>
+                <span class="reporter-method-output">208.Vista Suites by Nivetsa, Ooty</span>
+                <span class="reporter-method-output">209.Avocado holidays</span>
+                <span class="reporter-method-output">210.Westwood bungalow</span>
+                <span class="reporter-method-output">211.GanGas 3BHK Cottage</span>
+                <span class="reporter-method-output">212.Honey hut</span>
+                <span class="reporter-method-output">213.RM Cottage Ooty</span>
+                <span class="reporter-method-output">214.Green hills Kallati</span>
+                <span class="reporter-method-output">215.Nahar's Residency Hotel</span>
+                <span class="reporter-method-output">216.Tiger Belmonte Cottage</span>
+                <span class="reporter-method-output">217.S.R RESIDENCY</span>
+                <span class="reporter-method-output">218.Eden inn Ooty</span>
+                <span class="reporter-method-output">219.Misty Green villa</span>
+                <span class="reporter-method-output">220.Bairava Cottage</span>
+                <span class="reporter-method-output">221.The Anmols cottage</span>
+                <span class="reporter-method-output">222.as residency</span>
+                <span class="reporter-method-output">223.Adrika's Maple View Resort</span>
+                <span class="reporter-method-output">224.FabHotel Greenwood Resort</span>
+                <span class="reporter-method-output">225.GV cottages Finger post</span>
+                <span class="reporter-method-output">226.RAM LAKSHMI COTTAGE</span>
+                <span class="reporter-method-output">227.White house cottage</span>
+                <span class="reporter-method-output">228.Kumaran homestay</span>
+                <span class="reporter-method-output">229.Pine Forest View Residency</span>
+                <span class="reporter-method-output">230.Seven Endue Cottages</span>
+                <span class="reporter-method-output">231.Kiara Cottage</span>
+                <span class="reporter-method-output">232.The B Tree Resorts</span>
+                <span class="reporter-method-output">233.Mohan's Villa</span>
+                <span class="reporter-method-output">234.Sanctuary Boutique Hotel</span>
+                <span class="reporter-method-output">235.GK Homestay</span>
+                <span class="reporter-method-output">236.Castle Bungalow</span>
+                <span class="reporter-method-output">237.Valley homes</span>
+                <span class="reporter-method-output">238.Hotel Orchid Inn</span>
+                <span class="reporter-method-output">239.Vels Court Inn</span>
+                <span class="reporter-method-output">240.Lourds Ville Residency</span>
+                <span class="reporter-method-output">241.Vasantham Cottage</span>
+                <span class="reporter-method-output">242.Fitness De Royale Organic County</span>
+                <span class="reporter-method-output">243.Ooty Budget stayz</span>
+                <span class="reporter-method-output">244.SARAH RESIDENCY</span>
+                <span class="reporter-method-output">245.VASISTA'S Athithi bhavan</span>
+                <span class="reporter-method-output">246.Snowdrops Ooty</span>
+                <span class="reporter-method-output">247.Youth Hostel - Ooty</span>
+                <span class="reporter-method-output">248.Blue Mountain Villa</span>
+                <span class="reporter-method-output">249.Dee First Corner</span>
+                <span class="reporter-method-output">250.GOLDEN RESORTS</span>
+                <span class="reporter-method-output">251.Lalana Residency</span>
+                <span class="reporter-method-output">252.Hill Inn Homestay</span>
+                <span class="reporter-method-output">253.Veega Pearls Resorts</span>
+                <span class="reporter-method-output">254.VASANTHAM PALACE</span>
+                <span class="reporter-method-output">255.Aishwariya 3-BHK Cottage</span>
+                <span class="reporter-method-output">256.Sherlock Homes</span>
+                <span class="reporter-method-output">257.SRS Cottage</span>
+                <span class="reporter-method-output">258.Train View Cottage</span>
+                <span class="reporter-method-output">259.Glen View homestay</span>
+                <span class="reporter-method-output">260.Yantra Leisures</span>
+                <span class="reporter-method-output">261.Destiny The Farm Resort</span>
+                <span class="reporter-method-output">262.Orion Cottage</span>
+                <span class="reporter-method-output">263.Greenary inn</span>
+                <span class="reporter-method-output">264.CUCKOO KUDIL HOME STAY</span>
+                <span class="reporter-method-output">265.Sierra Vale</span>
+                <span class="reporter-method-output">266.Hotel Lakshmi Cottage</span>
+                <span class="reporter-method-output">267.Holiday Home near Ooty Lake</span>
+                <span class="reporter-method-output">268.Mayberry</span>
+                <span class="reporter-method-output">269.Hill View Dream Annex</span>
+                <span class="reporter-method-output">270.Bellevue Homestay</span>
+                <span class="reporter-method-output">271.Ooty Mas Cottage</span>
+                <span class="reporter-method-output">272.Bellmount</span>
+                <span class="reporter-method-output">273.Strawberry Cottage</span>
+                <span class="reporter-method-output">274.Praba rooms and cottages</span>
+                <span class="reporter-method-output">275.Saibala Residency</span>
+                <span class="reporter-method-output">276.Sriram garden cottage</span>
+                <span class="reporter-method-output">277.The Yellow leaf Cottages</span>
+                <span class="reporter-method-output">278.SMT Homes</span>
+                <span class="reporter-method-output">279.Royal Residency</span>
+                <span class="reporter-method-output">280.Lovely Cottage</span>
+                <span class="reporter-method-output">281.Bliss belmonte</span>
+                <span class="reporter-method-output">282.Homely Cottages</span>
+                <span class="reporter-method-output">283.Ranch Villa Ooty</span>
+                <span class="reporter-method-output">284.Belmonte cottage</span>
+                <span class="reporter-method-output">285.Cuckoo Nest Ooty</span>
+                <span class="reporter-method-output">286.Paradise villa</span>
+                <span class="reporter-method-output">287.Shafis Green Land</span>
+                <span class="reporter-method-output">288.Abi Suvi Homestay</span>
+                <span class="reporter-method-output">289.KS Cottage</span>
+                <span class="reporter-method-output">290.The Wonder Hill</span>
+                <span class="reporter-method-output">291.Top hill guest house</span>
+                <span class="reporter-method-output">292.Gangothri</span>
+                <span class="reporter-method-output">293.Dew cottages</span>
+                <span class="reporter-method-output">294.Mayan Resorts</span>
+                <span class="reporter-method-output">295.Club House Cottage I</span>
+                <span class="reporter-method-output">296.accsys Impex Rooms</span>
+                <span class="reporter-method-output">297.Rohith & Vijay Guest house</span>
+                <span class="reporter-method-output">298.Ajay Residency</span>
+                <span class="reporter-method-output">299.Kemps Camp</span>
+                <span class="reporter-method-output">300.AISHWARIYAA GARDENS</span>
+                <span class="reporter-method-output">301.TG Hills cottage</span>
+                <span class="reporter-method-output">302.AS Stay Residency</span>
+                <span class="reporter-method-output">303.Hills Cottages(1)</span>
+                <span class="reporter-method-output">304.Travel Stay Residence</span>
+                <span class="reporter-method-output">305.BM Cottage</span>
+                <span class="reporter-method-output">306.Kurunji Residency</span>
+                <span class="reporter-method-output">307.K R Cottage</span>
+                <span class="reporter-method-output">308.Yaseen Cottages</span>
+                <span class="reporter-method-output">309.NEELIMALAI RESIDENCY</span>
+                <span class="reporter-method-output">310.Drop Zone</span>
+                <span class="reporter-method-output">311.TGT homes</span>
+                <span class="reporter-method-output">312.GV residency</span>
+                <span class="reporter-method-output">313.Pebrock cottage</span>
+                <span class="reporter-method-output">314.S S Cottage</span>
+                <span class="reporter-method-output">315.The Imperial royal stay</span>
+                <span class="reporter-method-output">316.Sri Sai Cottage (Standard Room)</span>
+                <span class="reporter-method-output">317.Woody's Misty home</span>
+                <span class="reporter-method-output">318.Minis cottage</span>
+                <span class="reporter-method-output">319.Eadenz rooms and cottage</span>
+                <span class="reporter-method-output">320.Weston Holiday Inn</span>
+                <span class="reporter-method-output">321.Golden park</span>
+                <span class="reporter-method-output">322.The Smilestone</span>
+                <span class="reporter-method-output">323.Maruthi Sunrise Cottage</span>
+                <span class="reporter-method-output">324.The coral Yloo</span>
+                <span class="reporter-method-output">325.OOTY Abisuvi Home Stay</span>
+                <span class="reporter-method-output">326.Happy Homestay</span>
+                <span class="reporter-method-output">327.Pine view stay</span>
+                <span class="reporter-method-output">328.Coral bells</span>
+                <span class="reporter-method-output">329.Marryland cottage</span>
+                <span class="reporter-method-output">330.White Crystal Home</span>
+                <span class="reporter-method-output">331.Tiger hill homestay</span>
+                <span class="reporter-method-output">332.K P Cottage</span>
+                <span class="reporter-method-output">333.The madhuvanna cottage</span>
+                <span class="reporter-method-output">334.Silent wild Cottage</span>
+                <span class="reporter-method-output">335.Stone hill Cottage</span>
+                <span class="reporter-method-output">336.HILLTOP HOME STAY</span>
+                <span class="reporter-method-output">337.Aura Cottage (Deluxe Room)</span>
+                <span class="reporter-method-output">338.Gopi's Residency A Comfort stay</span>
+                <span class="reporter-method-output">339.Osprey Cottage</span>
+                <span class="reporter-method-output">340.Belmonte 3 bedroom villa</span>
+                <span class="reporter-method-output">341.Hotel Gangothri Sunrise</span>
+                <span class="reporter-method-output">342.Royal Heritage</span>
+                <span class="reporter-method-output">343.Club House Cottage - Rooms (4 Bedded Room)</span>
+                <span class="reporter-method-output">344.Vermount Resorts</span>
+                <span class="reporter-method-output">345.Linga Villa</span>
+                <span class="reporter-method-output">346.Swiya Holidays</span>
+                <span class="reporter-method-output">347.The Black Magic Cottage</span>
+                <span class="reporter-method-output">348.Collection O 24541 Ooty Highway Hotel</span>
+                <span class="reporter-method-output">349.OYO 22786 The Nest</span>
+                <span class="reporter-method-output">350.Collection O 14241 The Greenery - Holiday Inn</span>
+                <span class="reporter-method-output">351.MANGO HILL OOTY</span>
+                <span class="reporter-method-output">352.Space 4 Resorts</span>
+                <span class="reporter-method-output">353.ONELOVEDALE Blusalz HOMES</span>
+                <span class="reporter-method-output">354.Pearls Resorts</span>
+                <span class="reporter-method-output">355.BS Dreams</span>
+                <span class="reporter-method-output">356.Woodpeckers's Nest</span>
+                <span class="reporter-method-output">357.Toda Room By Smyrna</span>
+                <span class="reporter-method-output">358.Blue Room By Symrna</span>
+                <span class="reporter-method-output">359.Chestnut By Smyrna</span>
+                <span class="reporter-method-output">360.Magic Mist Resort</span>
+                <span class="reporter-method-output">361.New Summit Villa Ooty</span>
+                <span class="reporter-method-output">362.ONELOVEDALE Blusalz HOMES</span>
+                <span class="reporter-method-output">363.HAPPYSTAY</span>
+                <span class="reporter-method-output">364.Ooty Dormitories</span>
+                <span class="reporter-method-output">365.OYO 80097 Shiva Shanthi Inn</span>
+                <span class="reporter-method-output">366.The GV Residency</span>
+                <span class="reporter-method-output">367.GK Villa</span>
+                <span class="reporter-method-output">The name of the testcase passed is: HOTELSEARCH</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">hotelBooking(ooty, , , 1, 1, 0, Mountain Trails, Mr, dsbk, dsbk, gsar@gm.com, 91, 8282345643, 724762834, haswin, ...)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test case started: HOTELBOOKING</span>
+                <span class="reporter-method-output">Existing rooms 1and Required rooms 1 are same.</span>
+                <span class="reporter-method-output">Minus button at adults section is clicked 1 times</span>
+                <span class="reporter-method-output">Existing rooms 0and Required rooms 0 are same.</span>
+                <span class="reporter-method-output">The Total Number of Hotels are 100</span>
+                <span class="reporter-method-output">Please find the Hotel names below:  </span>
+                <span class="reporter-method-output">1.AURORA LIGHT RESIDENCY</span>
+                <span class="reporter-method-output">2.Rainbow Cottage</span>
+                <span class="reporter-method-output">3.Chettinad Avenue</span>
+                <span class="reporter-method-output">4.Hotel Sapphire Paradise</span>
+                <span class="reporter-method-output">5.Wild zest</span>
+                <span class="reporter-method-output">6.Green Apple Residence</span>
+                <span class="reporter-method-output">7.The Majestic Crown</span>
+                <span class="reporter-method-output">8.Garden Manor</span>
+                <span class="reporter-method-output">9.Hill Crest Metro</span>
+                <span class="reporter-method-output">10.Sterling Ooty Elk Hill</span>
+                <span class="reporter-method-output">11.Venus Holiday Home</span>
+                <span class="reporter-method-output">12.Hotel Lakeview</span>
+                <span class="reporter-method-output">13.Greenyards</span>
+                <span class="reporter-method-output">14.FabHotel Sholas Residency I</span>
+                <span class="reporter-method-output">15.OYO 13118 Twin Falls</span>
+                <span class="reporter-method-output">16.Hotel Charring Cross</span>
+                <span class="reporter-method-output">17.OYO 78034 New Star Cottages</span>
+                <span class="reporter-method-output">18.Glen Park Inn</span>
+                <span class="reporter-method-output">19.OYO 79915 SRJs Thaneesh Residency</span>
+                <span class="reporter-method-output">20.Parkside Residency</span>
+                <span class="reporter-method-output">21.The Monarch</span>
+                <span class="reporter-method-output">22.The Green valley resorts</span>
+                <span class="reporter-method-output">23.Beverly Villa</span>
+                <span class="reporter-method-output">24.Oriental Grand</span>
+                <span class="reporter-method-output">25.FabExpress Grand Castle Hill Resorts</span>
+                <span class="reporter-method-output">26.Mountain Trails</span>
+                <span class="reporter-method-output">27.Hotel Astoria Residency</span>
+                <span class="reporter-method-output">28.Tulips valley view resorts</span>
+                <span class="reporter-method-output">29.Rose Park Residency</span>
+                <span class="reporter-method-output">30.Tulips Elkhill Resorts</span>
+                <span class="reporter-method-output">31.Hotel Carnation</span>
+                <span class="reporter-method-output">32.Zostel Ooty</span>
+                <span class="reporter-method-output">33.YWCA Anandagiri Ooty</span>
+                <span class="reporter-method-output">34.Fortune Retreats</span>
+                <span class="reporter-method-output">35.Al-Woodlands Residency</span>
+                <span class="reporter-method-output">36.Dew Drop Inn</span>
+                <span class="reporter-method-output">37.OYO 78121 Red Rock</span>
+                <span class="reporter-method-output">38.La Montana by TGI</span>
+                <span class="reporter-method-output">39.Vinayaga Inn by Poppys</span>
+                <span class="reporter-method-output">40.FabHotel Khems</span>
+                <span class="reporter-method-output">41.Hotel Sapphire Grand</span>
+                <span class="reporter-method-output">42.Hotel Fairstay</span>
+                <span class="reporter-method-output">43.The Red House</span>
+                <span class="reporter-method-output">44.A Ooty Honey Huts</span>
+                <span class="reporter-method-output">45.Sabol Holiday Resorts</span>
+                <span class="reporter-method-output">46.The Bowers Chalet</span>
+                <span class="reporter-method-output">47.Hotel Welbeck Residency</span>
+                <span class="reporter-method-output">48.OYO 4427 Hotel Gaylord</span>
+                <span class="reporter-method-output">49.Sterling Ooty Fern Hill</span>
+                <span class="reporter-method-output">50.Mount View Heritage Hotel</span>
+                <span class="reporter-method-output">51.Silver Bett Resort</span>
+                <span class="reporter-method-output">52.Delightz Inn</span>
+                <span class="reporter-method-output">53.Green Leaves, The countryside Inn(8 kms from Ooty)</span>
+                <span class="reporter-method-output">54.kumaran cottage</span>
+                <span class="reporter-method-output">55.RK Homes Guest House</span>
+                <span class="reporter-method-output">56.Hotel Alakapuri</span>
+                <span class="reporter-method-output">57.FabHotel Sun Park Grand</span>
+                <span class="reporter-method-output">58.Leopard Rock Wilderness Resort</span>
+                <span class="reporter-method-output">59.DARSHAN HOTEL</span>
+                <span class="reporter-method-output">60.Deccan Park</span>
+                <span class="reporter-method-output">61.Hotel Meadows Residency</span>
+                <span class="reporter-method-output">62.Hotel Tamilnadu, Ooty</span>
+                <span class="reporter-method-output">63.Glyngarth Resort (10km Away from Ooty)</span>
+                <span class="reporter-method-output">64.Vista Suites Kalatti</span>
+                <span class="reporter-method-output">65.Accord HighLand</span>
+                <span class="reporter-method-output">66.Raasinihas Paradise</span>
+                <span class="reporter-method-output">67.Sinclairs Retreat Ooty</span>
+                <span class="reporter-method-output">68.Motherland Residency</span>
+                <span class="reporter-method-output">69.OYO 10950 Hotel Hills Palace</span>
+                <span class="reporter-method-output">70.Western Valley Resorts</span>
+                <span class="reporter-method-output">71.A2B Residency Ooty</span>
+                <span class="reporter-method-output">72.Tuccil</span>
+                <span class="reporter-method-output">73.Ooty Residency</span>
+                <span class="reporter-method-output">74.DIO BEAUMOUNT</span>
+                <span class="reporter-method-output">75.De Santosh Residency</span>
+                <span class="reporter-method-output">76.OYO 35818 Twin Falls Residency</span>
+                <span class="reporter-method-output">77.Golden Springs</span>
+                <span class="reporter-method-output">78.Hotel Khems</span>
+                <span class="reporter-method-output">79.Tiger Hill Homestay</span>
+                <span class="reporter-method-output">80.La Blooms</span>
+                <span class="reporter-method-output">81.OYO 7665 Home Stay Fable Stay</span>
+                <span class="reporter-method-output">82.Palve sugavasam</span>
+                <span class="reporter-method-output">83.The Byke Sunshine Grand</span>
+                <span class="reporter-method-output">84.Hotel Preethi Classic Towers</span>
+                <span class="reporter-method-output">85.I- India</span>
+                <span class="reporter-method-output">86.SV RESIDENCY</span>
+                <span class="reporter-method-output">87.Rock Ooty</span>
+                <span class="reporter-method-output">88.Kemps cave</span>
+                <span class="reporter-method-output">89.Taj Cottage</span>
+                <span class="reporter-method-output">90.Hill Bird Homestay</span>
+                <span class="reporter-method-output">91.OYO Flagship 44245 Hotel Rainforest Thalayathimund</span>
+                <span class="reporter-method-output">92.PHOENIX STAY Ooty</span>
+                <span class="reporter-method-output">93.Skylarc inn</span>
+                <span class="reporter-method-output">94.Hotel Maneck</span>
+                <span class="reporter-method-output">95.Berry Hills Resort</span>
+                <span class="reporter-method-output">96.MANGO HILL CENTRAL OOTY</span>
+                <span class="reporter-method-output">97.Gem Park</span>
+                <span class="reporter-method-output">98.Vermont Valley Cottages By NiveTsa</span>
+                <span class="reporter-method-output">99.Anmols Impex Cottage</span>
+                <span class="reporter-method-output">100.RN Holidays</span>
+                <span class="reporter-method-output">The name of the testcase failed is: HOTELBOOKING</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Goibibo_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">3 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.goibibo.tests.TS_002_Hotel_Booking</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">setupApplication</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.goibibo.tests.TS_004_Hotel_Filters</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">setupApplication</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.goibibo.tests.TS_003_Hotel_Details</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">setupApplication</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Goibibo_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_001_Hotel_Search</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">setupApplication</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">8653 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_002_Hotel_Booking</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">27530 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_003_Hotel_Details</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">32666 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_004_Hotel_Filters</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">36539 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_001_Hotel_Search</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">hotelSearch(ooty, , , 1, 1, 0)</span>
+                <span class="method-start">42021 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_002_Hotel_Booking</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">hotelBooking(ooty, , , 1, 1, 0, Mountain Trails, Mr, dsbk, dsbk, gsar@gm.com, 91, 8282345643, 724762834, haswin, ...)</span>
+                <span class="method-start">487741 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_003_Hotel_Details</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">hotelDetails(ooty, , , 1, 1, 0, Mountain Trails)</span>
+                <span class="method-start">702554 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_004_Hotel_Filters</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">hotelFilters(ooty, , , 1, 1, 0, Mountain Trails, Pay At Hotel Available, 4.5, 2000)</span>
+                <span class="method-start">819401 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_001_Hotel_Search</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">1111896 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_002_Hotel_Booking</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">1112072 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_003_Hotel_Details</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">1113189 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.goibibo.tests.TS_004_Hotel_Filters</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">1115888 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>
